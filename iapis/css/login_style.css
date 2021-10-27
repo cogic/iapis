@@ -1,0 +1,210 @@
+.frame {
+  position: relative;
+  height: 480px;
+  background-color: #ffffff23;
+}
+
+.header {
+  position: relative;
+  height: 100px;
+  background-color: rgba(255, 255, 255, 0.644);
+}
+
+#headlogo img {
+  position: absolute;
+  display: inline-block;
+  height: 80px;
+  left: 30px;
+  top: 10px;
+  /* background-color: cadetblue; */
+}
+
+#headtitle {
+  position: absolute;
+  left: 130px;
+  top: 20px;
+  display: inline-block;
+  /* background-color: coral; */
+}
+
+#headtitle h1 {
+  color: #000000;
+  font-size: 30px;
+}
+
+#headtitle h2 {
+  color: #000000;
+  font-size: 12px;
+}
+
+#logindiv {
+  position: relative;
+  top: 50px;
+  background-color: rgba(0, 0, 0, 0.363);
+  /* border: 1px solid #ffffff77; */
+  border-radius: 4px;
+  height: 350px;
+  width: 400px;
+}
+
+#logindiv:hover {
+  background-color: rgba(0, 0, 0, 0.425);
+  box-shadow: 0px 0px 5px 0px rgba(141, 141, 141, 0.705);
+}
+
+#formtable {
+  /* background-color: bisque; */
+  width: 100%;
+  /* width: 1000px; */
+}
+
+td {
+  text-align: center;
+}
+
+#title {
+  padding: 20px;
+  padding-bottom: 40px;
+}
+
+#title h5 {
+  color: #ffffffcc;
+  font-size: 20px;
+}
+
+.inp {
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  /* padding: 10px; */
+}
+
+.inp label {
+  font-size: 16px;
+  color: #ffffffc7;
+}
+
+.inp input {
+  border-radius: 2px;
+  font-size: 20px;
+  padding: 6px;
+  border: 1px solid #000000;
+  background-color: #ffffffe1;
+  /* height: 20px; */
+  outline: none;
+}
+
+.inp input:focus {
+  background-color: #fffffff3;
+  box-shadow: inset 0px 0px 5px 2px rgba(0, 0, 0, 0.171);
+}
+
+#logn {
+  padding-top: 20px;
+  height: 50px;
+  /* width: 150px; */
+}
+
+#logn button {
+  font-size: 16px;
+  cursor: pointer;
+  border: 2px solid #ffffff59;
+  border-radius: 4px;
+  background-color: rgba(55, 172, 180, 0.884);
+  height: 40px;
+  width: 200px;
+}
+
+#logn button:hover {
+  background-color: rgb(103, 188, 209);
+}
+
+#logn button:active {
+  background-color: rgb(76, 110, 161);
+}
+
+.logintip {
+  position: relative;
+  color: rgb(243, 129, 129);
+  font-size: 16px;
+}
+
+.footer {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  background-color: rgba(13, 133, 67, 0.527);
+}
+
+.footer h1 {
+  padding: 10px 0;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.603);
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("../images/loginback.jpg");
+}
+
+/* 验证码 */
+.code {
+  position: relative;
+  /* padding-top: 50px; */
+  /* min-width: 400px; */
+  /* max-width: 400px; */
+  height: 50px;
+  /* background-color: antiquewhite; */
+  /* margin: 0 auto; */
+}
+
+.input-val {
+  position: absolute;
+  left: 64px;
+  top: 5px;
+  width: 154px;
+  border-radius: 2px;
+  font-size: 16px;
+  padding: 6px;
+  line-height: 24px;
+  border: 1px solid #000000;
+  background-color: #ffffffe1;
+  /* height: 20px; */
+  outline: none;
+}
+
+.input-val:focus {
+  background-color: #fffffff3;
+  box-shadow: inset 0px 0px 5px 2px rgba(0, 0, 0, 0.171);
+}
+
+#canvas {
+  position: absolute;
+  left: 235px;
+  top: 5px;
+  height: 35px;
+  width: 90px;
+  /* float: right; */
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  cursor: pointer;
+  background-color: #e4e4e4;
+}
+
+.btn {
+  width: 100px;
+  height: 40px;
+  background: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px auto 0;
+  display: block;
+  font-size: 1.2rem;
+  color: #e22e1c;
+  cursor: pointer;
+}

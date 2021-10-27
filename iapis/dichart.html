@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <base href="/iapis/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/overview_distribution_style.css" />
+    <!-- <link rel="stylesheet" href="css/main_style.css" /> -->
+
+</head>
+
+<body>
+    <!-- <div class="main heart"> -->
+    <!-- <div class="search"> -->
+    <!-- 选择名录 -->
+    <select name="lists" class="listselectbox">
+        <option value="list1">国家重点管理外来入侵物种名录(第一批)</option>
+        <option value="list2">中华人民共和国生态环境保护部公布的4 批中国外来入侵物种名单</option>
+        <option value="list3">全球100 种最具有破坏力的入侵物种名单</option>
+        <option value="list4">中国外来入侵物种数据库中收录的植物名录</option>
+        <option value="list5">中华人民共和国进境植物检疫性有害生物名录(截止2017 年6 月)</option>
+    </select>
+    <!-- </div> -->
+    <h6 class="maptip" id="maptip1"></h6>
+    <h6 class="maptip" id="maptip2"></h6>
+    <h6 class="maptip" id="maptip3"></h6>
+    <div>
+        <div id="container" class="map"></div>
+        <span class="help2 helpiconfont2">&#xe627;</span>
+        <div class="help2" id="helptip2" hidden="hidden">
+            <h1>对行政区数据的说明</h1>
+            <p>1.数据来源为历史数据，由于广东省行政区规划的变更，部分地区的数据可能会丢失或出现偏差。</p>
+            <br>
+            <p>2.行政区数据显示为 0 有两种情况：<br>①该地区实际数据为 0 &nbsp;&nbsp;②未调查到该地区的数据或该地区的数据丢失</p>
+        </div>
+    </div>
+    <div id="list_div">
+        <h6 id="listtip">—</h6>
+        <span class="help helpiconfont">&#xe627;</span>
+        <div class="help" id="helptip" hidden="hidden">
+            <h1>对表中风险等级的说明</h1>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;表中风险分值和风险等级都是相对于广东省而言，关于风险等级的说明如下：</p>
+            <p>【一级风险（高）】入侵风险高，建议列入广东省重点管理入侵物种，严格监控，并针对其入侵机制、扩散路径及防控对策设立科研专项，相关部门协同防控。</p>
+            <!-- <br> -->
+            <p>【二级风险（中）】中等入侵风险，建议列入广东省重点管理入侵物种，设立相关科研专项，相关部门做好应急预案。</p>
+            <!-- <br> -->
+            <p>【三级风险（低）】入侵风险等级低，需要定期监控，预防其进一步扩散爆发。</p>
+        </div>
+        <table id="list_table">
+            <tr>
+                <th class="num">序</th>
+                <th class="name">植物名</th>
+                <th class="riskscore">风险分值<br>(最高|最低)</th>
+                <th class="risklevel">风险等级</th>
+                <th class="details">详情</th>
+            </tr>
+        </table>
+        <div id="listtail"></div>
+    </div>
+    <!-- </div> -->
+    <script src="js/jquery.js"></script>
+    <script src="js/overview_map.js"></script>
+    <script src="//webapi.amap.com/maps?v=2.0&key=af623eef450ea6e447829438b62a1168"></script>
+    <script src="//webapi.amap.com/ui/1.1/main.js"></script>
+    <script src="js/database.js"></script>
+    <script src="js/adapter.js"></script>
+    <script src="js/echarts.min.js"></script>
+    <script>
+        $(function () {
+            $(".help").on("mouseover", function () {
+                $("#helptip").show();
+            }).on("mouseout", function () {
+                $("#helptip").hide();
+            })
+            $(".help2").on("mouseover", function () {
+                $("#helptip2").show();
+            }).on("mouseout", function () {
+                $("#helptip2").hide();
+            })
+            recreate();
+            $(".listselectbox").change(recreate);
+            $(".maptip").hide();
+            $("#container")
+                .mouseover(function () {
+                    $(".maptip").show();
+                })
+                .mouseout(function () {
+                    $(".maptip").hide();
+                });
+        })
+
+        function recreate() {
+            createOVMap($(".listselectbox").find("option:selected").val(), $(".listselectbox").find("option:selected")
+                .html(),
+                440000);
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,327 @@
+[
+  {
+    "value": "temperature",
+    "unit":"℃",
+    "title": {
+      "text": "累年年平均气温",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "气温"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 15,
+      "max": 28,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": [
+          "#6DAFD2",
+          "#9CE3D5",
+          "#F8FAD5",
+          "#FBE27D",
+          "#FCC665",
+          "#F89201",
+          "#F44E14"
+        ]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "temperatureMax",
+    "unit":"℃",
+    "title": {
+      "text": "累年年平均最高气温",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "气温"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 15,
+      "max": 28,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": [
+          "#6DAFD2",
+          "#9CE3D5",
+          "#F8FAD5",
+          "#FBE27D",
+          "#FCC665",
+          "#F89201",
+          "#F44E14"
+        ]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "temperatureMin",
+    "unit":"℃",
+    "title": {
+      "text": "累年年平均最低气温",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "气温"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 15,
+      "max": 28,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": [
+          "#6DAFD2",
+          "#9CE3D5",
+          "#F8FAD5",
+          "#FBE27D",
+          "#FCC665",
+          "#F89201",
+          "#F44E14"
+        ]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "rain",
+    "unit":"mm",
+    "title": {
+      "text": "累年年平均降水量",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "降水量"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 1200,
+      "max": 2700,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": [
+          "#F8FAD3",
+          "#9CE3D1",
+          "#6DAFD2",
+          "#3892D9",
+          "#4D65D3",
+          "#6253B8"
+        ]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "rain08",
+    "unit":"mm",
+    "title": {
+      "text": "累年08-08时平均年降水量",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "降水量"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 1200,
+      "max": 2700,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": [
+          "#F8FAD3",
+          "#9CE3D1",
+          "#6DAFD2",
+          "#3892D9",
+          "#4D65D3",
+          "#6253B8"
+        ]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "rain20",
+    "unit":"mm",
+    "title": {
+      "text": "累年20-20时平均年降水量",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "降水量"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 1200,
+      "max": 2700,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": [
+          "#F8FAD3",
+          "#9CE3D1",
+          "#6DAFD2",
+          "#3892D9",
+          "#4D65D3",
+          "#6253B8"
+        ]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "sunshine",
+    "unit":"h",
+    "title": {
+      "text": "累年年平均日照时数",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "日照"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 1300,
+      "max": 2300,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#F8FAD3", "#FBE27D", "#FCC663", "#F89201", "#F44E14"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "null",
+    "unit":"null",
+    "title": {
+      "text": "null",
+      "subtext": "null"
+    },
+    "tooltip": {
+      "formatter": "null"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "null",
+            "value": "null"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 0,
+      "max": 0,
+      "splitNumber": 1,
+      "precision": 0,
+      "inRange": {
+        "color": ["#000000"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  }
+]

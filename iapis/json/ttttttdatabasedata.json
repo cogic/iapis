@@ -1,0 +1,7966 @@
+[
+  {
+    "cID": 440100,
+    "plants": [
+      {
+        "pid": 1,
+        "pNameCn": "紫茎泽兰",
+        "riskscoremin": "0",
+        "riskscoremax": 110,
+        "risklevel": "一级风险（高）"
+      },
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊",
+        "riskscoremin": 0,
+        "riskscoremax": 0,
+        "risklevel": "一级风险（中）"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草",
+        "riskscoremin": "52.5",
+        "riskscoremax": null,
+        "risklevel": "一级风险（低）"
+      },
+      {
+        "pid": 4,
+        "riskscoremin": 0,
+        "riskscoremax": 0,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 8,
+        "riskscoremin": 0,
+        "riskscoremax": 0,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "riskscoremin": 0,
+        "riskscoremax": 0,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "riskscoremin": 0,
+        "riskscoremax": 0,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "riskscoremin": 0,
+        "riskscoremax": 0,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 14,
+        "pNameCn": "加拿大一枝黄花"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 40,
+        "pNameCn": "通奶草"
+      },
+      {
+        "pid": 42,
+        "pNameCn": "苜蓿"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 69,
+        "pNameCn": "菊芹"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 77,
+        "pNameCn": "续断菊"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 85,
+        "pNameCn": "灯笼草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 87,
+        "pNameCn": "假酸浆"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 92,
+        "pNameCn": "野胡萝卜"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 100,
+        "pNameCn": "刺花莲子草"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 169,
+        "pNameCn": "光叶决明"
+      },
+      {
+        "pid": 172,
+        "pNameCn": "翅荚决明"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 190,
+        "pNameCn": "紫花大翼豆"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 201,
+        "pNameCn": "绛车轴草"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 239,
+        "pNameCn": "刺果瓜"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 266,
+        "pNameCn": "月光花"
+      },
+      {
+        "pid": 272,
+        "pNameCn": "金钟藤"
+      },
+      {
+        "pid": 275,
+        "pNameCn": "变色牵牛"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 284,
+        "pNameCn": "短柄吊球草"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 298,
+        "pNameCn": "独脚金"
+      },
+      {
+        "pid": 303,
+        "pNameCn": "猫爪藤"
+      },
+      {
+        "pid": 304,
+        "pNameCn": "鸭嘴花"
+      },
+      {
+        "pid": 309,
+        "pNameCn": "大花老鸦嘴"
+      },
+      {
+        "pid": 321,
+        "pNameCn": "大波斯菊"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 358,
+        "pNameCn": "白茅"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 369,
+        "pNameCn": "香根草"
+      },
+      {
+        "pid": 405,
+        "pNameCn": "黑荆"
+      },
+      {
+        "pid": 406,
+        "pNameCn": "无刺含羞草"
+      },
+      {
+        "pid": 408,
+        "pNameCn": "粉绿狐尾藻"
+      }
+    ]
+  },
+  {
+    "cID": 440200,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 6,
+        "pNameCn": "毒麦"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 40,
+        "pNameCn": "通奶草"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 57,
+        "pNameCn": "毛花雀稗"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 69,
+        "pNameCn": "菊芹"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 85,
+        "pNameCn": "灯笼草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 89,
+        "pNameCn": "喀西茄"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 92,
+        "pNameCn": "野胡萝卜"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 102,
+        "pNameCn": "尾穗苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 140,
+        "pNameCn": "绿穗苋"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 157,
+        "pNameCn": "豆瓣菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 202,
+        "pNameCn": "白车轴草"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 253,
+        "pNameCn": "细叶芹"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 268,
+        "pNameCn": "日本菟丝子"
+      },
+      {
+        "pid": 300,
+        "pNameCn": "直立婆婆纳"
+      },
+      {
+        "pid": 302,
+        "pNameCn": "阿拉伯婆婆纳"
+      },
+      {
+        "pid": 304,
+        "pNameCn": "鸭嘴花"
+      },
+      {
+        "pid": 310,
+        "pNameCn": "北美车前"
+      },
+      {
+        "pid": 329,
+        "pNameCn": "菊芋"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 346,
+        "pNameCn": "韭莲"
+      },
+      {
+        "pid": 350,
+        "pNameCn": "野燕麦"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 405,
+        "pNameCn": "黑荆"
+      }
+    ]
+  },
+  {
+    "cID": 440300,
+    "plants": [
+      {
+        "pid": 1,
+        "pNameCn": "紫茎泽兰"
+      },
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 28,
+        "pNameCn": "刺苍耳"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 40,
+        "pNameCn": "通奶草"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 57,
+        "pNameCn": "毛花雀稗"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 69,
+        "pNameCn": "菊芹"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 85,
+        "pNameCn": "灯笼草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 100,
+        "pNameCn": "刺花莲子草"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 102,
+        "pNameCn": "尾穗苋"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 131,
+        "pNameCn": "无瓣繁缕"
+      },
+      {
+        "pid": 151,
+        "pNameCn": "蓟罂粟"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 169,
+        "pNameCn": "光叶决明"
+      },
+      {
+        "pid": 172,
+        "pNameCn": "翅荚决明"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 190,
+        "pNameCn": "紫花大翼豆"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 211,
+        "pNameCn": "猩猩草"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 228,
+        "pNameCn": "泡果苘"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 234,
+        "pNameCn": "西番莲"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 242,
+        "pNameCn": "桉树"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 266,
+        "pNameCn": "月光花"
+      },
+      {
+        "pid": 272,
+        "pNameCn": "金钟藤"
+      },
+      {
+        "pid": 278,
+        "pNameCn": "聚合草"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 284,
+        "pNameCn": "短柄吊球草"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 302,
+        "pNameCn": "阿拉伯婆婆纳"
+      },
+      {
+        "pid": 304,
+        "pNameCn": "鸭嘴花"
+      },
+      {
+        "pid": 309,
+        "pNameCn": "大花老鸦嘴"
+      },
+      {
+        "pid": 311,
+        "pNameCn": "刺苞果"
+      },
+      {
+        "pid": 316,
+        "pNameCn": "矢车菊"
+      },
+      {
+        "pid": 321,
+        "pNameCn": "大波斯菊"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 358,
+        "pNameCn": "白茅"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 367,
+        "pNameCn": "大米草"
+      },
+      {
+        "pid": 406,
+        "pNameCn": "无刺含羞草"
+      }
+    ]
+  },
+  {
+    "cID": 440400,
+    "plants": [
+      {
+        "pid": 1,
+        "pNameCn": "紫茎泽兰"
+      },
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 77,
+        "pNameCn": "续断菊"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 151,
+        "pNameCn": "蓟罂粟"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 190,
+        "pNameCn": "紫花大翼豆"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 309,
+        "pNameCn": "大花老鸦嘴"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 367,
+        "pNameCn": "大米草"
+      },
+      {
+        "pid": 404,
+        "pNameCn": "红瓜"
+      },
+      {
+        "pid": 406,
+        "pNameCn": "无刺含羞草"
+      }
+    ]
+  },
+  {
+    "cID": 440500,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 14,
+        "pNameCn": "加拿大一枝黄花"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 100,
+        "pNameCn": "刺花莲子草"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 102,
+        "pNameCn": "尾穗苋"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 190,
+        "pNameCn": "紫花大翼豆"
+      },
+      {
+        "pid": 211,
+        "pNameCn": "猩猩草"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 228,
+        "pNameCn": "泡果苘"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 249,
+        "pNameCn": "海边月见草"
+      },
+      {
+        "pid": 251,
+        "pNameCn": "裂叶月见草"
+      },
+      {
+        "pid": 253,
+        "pNameCn": "细叶芹"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 266,
+        "pNameCn": "月光花"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 369,
+        "pNameCn": "香根草"
+      },
+      {
+        "pid": 404,
+        "pNameCn": "红瓜"
+      }
+    ]
+  },
+  {
+    "cID": 440600,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 14,
+        "pNameCn": "加拿大一枝黄花"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 87,
+        "pNameCn": "假酸浆"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 118,
+        "pNameCn": "细枝木麻黄"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 309,
+        "pNameCn": "大花老鸦嘴"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      }
+    ]
+  },
+  {
+    "cID": 440700,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 102,
+        "pNameCn": "尾穗苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 284,
+        "pNameCn": "短柄吊球草"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      }
+    ]
+  },
+  {
+    "cID": 440800,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 89,
+        "pNameCn": "喀西茄"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 153,
+        "pNameCn": "皱子白花菜"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 330,
+        "pNameCn": "假地胆草"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 369,
+        "pNameCn": "香根草"
+      },
+      {
+        "pid": 404,
+        "pNameCn": "红瓜"
+      }
+    ]
+  },
+  {
+    "cID": 440900,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 89,
+        "pNameCn": "喀西茄"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 92,
+        "pNameCn": "野胡萝卜"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 172,
+        "pNameCn": "翅荚决明"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 190,
+        "pNameCn": "紫花大翼豆"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 284,
+        "pNameCn": "短柄吊球草"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 367,
+        "pNameCn": "大米草"
+      },
+      {
+        "pid": 369,
+        "pNameCn": "香根草"
+      },
+      {
+        "pid": 405,
+        "pNameCn": "黑荆"
+      },
+      {
+        "pid": 406,
+        "pNameCn": "无刺含羞草"
+      }
+    ]
+  },
+  {
+    "cID": 441200,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 102,
+        "pNameCn": "尾穗苋"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 169,
+        "pNameCn": "光叶决明"
+      },
+      {
+        "pid": 172,
+        "pNameCn": "翅荚决明"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 253,
+        "pNameCn": "细叶芹"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 266,
+        "pNameCn": "月光花"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 350,
+        "pNameCn": "野燕麦"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 406,
+        "pNameCn": "无刺含羞草"
+      }
+    ]
+  },
+  {
+    "cID": 441300,
+    "plants": [
+      {
+        "pid": 1,
+        "pNameCn": "紫茎泽兰"
+      },
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 40,
+        "pNameCn": "通奶草"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 57,
+        "pNameCn": "毛花雀稗"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 69,
+        "pNameCn": "菊芹"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 100,
+        "pNameCn": "刺花莲子草"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 118,
+        "pNameCn": "细枝木麻黄"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 202,
+        "pNameCn": "白车轴草"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 211,
+        "pNameCn": "猩猩草"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 234,
+        "pNameCn": "西番莲"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 242,
+        "pNameCn": "桉树"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 249,
+        "pNameCn": "海边月见草"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 272,
+        "pNameCn": "金钟藤"
+      },
+      {
+        "pid": 278,
+        "pNameCn": "聚合草"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 300,
+        "pNameCn": "直立婆婆纳"
+      },
+      {
+        "pid": 302,
+        "pNameCn": "阿拉伯婆婆纳"
+      },
+      {
+        "pid": 304,
+        "pNameCn": "鸭嘴花"
+      },
+      {
+        "pid": 309,
+        "pNameCn": "大花老鸦嘴"
+      },
+      {
+        "pid": 310,
+        "pNameCn": "北美车前"
+      },
+      {
+        "pid": 311,
+        "pNameCn": "刺苞果"
+      },
+      {
+        "pid": 329,
+        "pNameCn": "菊芋"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 340,
+        "pNameCn": "平滑苍耳"
+      },
+      {
+        "pid": 353,
+        "pNameCn": "扁穗雀麦"
+      },
+      {
+        "pid": 358,
+        "pNameCn": "白茅"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 367,
+        "pNameCn": "大米草"
+      }
+    ]
+  },
+  {
+    "cID": 441400,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 14,
+        "pNameCn": "加拿大一枝黄花"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 87,
+        "pNameCn": "假酸浆"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 89,
+        "pNameCn": "喀西茄"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 92,
+        "pNameCn": "野胡萝卜"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 249,
+        "pNameCn": "海边月见草"
+      },
+      {
+        "pid": 253,
+        "pNameCn": "细叶芹"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 284,
+        "pNameCn": "短柄吊球草"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 302,
+        "pNameCn": "阿拉伯婆婆纳"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 407,
+        "pNameCn": "多花黑麦草"
+      }
+    ]
+  },
+  {
+    "cID": 441500,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 87,
+        "pNameCn": "假酸浆"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 249,
+        "pNameCn": "海边月见草"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      }
+    ]
+  },
+  {
+    "cID": 441600,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 102,
+        "pNameCn": "尾穗苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 340,
+        "pNameCn": "平滑苍耳"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      }
+    ]
+  },
+  {
+    "cID": 441700,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 89,
+        "pNameCn": "喀西茄"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 266,
+        "pNameCn": "月光花"
+      },
+      {
+        "pid": 272,
+        "pNameCn": "金钟藤"
+      },
+      {
+        "pid": 284,
+        "pNameCn": "短柄吊球草"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 304,
+        "pNameCn": "鸭嘴花"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 369,
+        "pNameCn": "香根草"
+      },
+      {
+        "pid": 405,
+        "pNameCn": "黑荆"
+      }
+    ]
+  },
+  {
+    "cID": 441800,
+    "plants": [
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 92,
+        "pNameCn": "野胡萝卜"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 304,
+        "pNameCn": "鸭嘴花"
+      },
+      {
+        "pid": 316,
+        "pNameCn": "矢车菊"
+      },
+      {
+        "pid": 329,
+        "pNameCn": "菊芋"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 358,
+        "pNameCn": "白茅"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      }
+    ]
+  },
+  {
+    "cID": 441900,
+    "plants": [
+      {
+        "pid": 1,
+        "pNameCn": "紫茎泽兰"
+      },
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 69,
+        "pNameCn": "菊芹"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 87,
+        "pNameCn": "假酸浆"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 211,
+        "pNameCn": "猩猩草"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 234,
+        "pNameCn": "西番莲"
+      },
+      {
+        "pid": 242,
+        "pNameCn": "桉树"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 272,
+        "pNameCn": "金钟藤"
+      },
+      {
+        "pid": 278,
+        "pNameCn": "聚合草"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 302,
+        "pNameCn": "阿拉伯婆婆纳"
+      },
+      {
+        "pid": 309,
+        "pNameCn": "大花老鸦嘴"
+      },
+      {
+        "pid": 311,
+        "pNameCn": "刺苞果"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 340,
+        "pNameCn": "平滑苍耳"
+      },
+      {
+        "pid": 353,
+        "pNameCn": "扁穗雀麦"
+      },
+      {
+        "pid": 358,
+        "pNameCn": "白茅"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 367,
+        "pNameCn": "大米草"
+      },
+      {
+        "pid": 406,
+        "pNameCn": "无刺含羞草"
+      }
+    ]
+  },
+  {
+    "cID": 442000,
+    "plants": [
+      {
+        "pid": 1,
+        "pNameCn": "紫茎泽兰"
+      },
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 40,
+        "pNameCn": "通奶草"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 44,
+        "pNameCn": "无瓣海桑"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 51,
+        "pNameCn": "稗"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 66,
+        "pNameCn": "大狼把草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 69,
+        "pNameCn": "菊芹"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 85,
+        "pNameCn": "灯笼草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 92,
+        "pNameCn": "野胡萝卜"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 157,
+        "pNameCn": "豆瓣菜"
+      },
+      {
+        "pid": 158,
+        "pNameCn": "落地生根"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 234,
+        "pNameCn": "西番莲"
+      },
+      {
+        "pid": 242,
+        "pNameCn": "桉树"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 272,
+        "pNameCn": "金钟藤"
+      },
+      {
+        "pid": 278,
+        "pNameCn": "聚合草"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 302,
+        "pNameCn": "阿拉伯婆婆纳"
+      },
+      {
+        "pid": 309,
+        "pNameCn": "大花老鸦嘴"
+      },
+      {
+        "pid": 311,
+        "pNameCn": "刺苞果"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 334,
+        "pNameCn": "万寿菊"
+      },
+      {
+        "pid": 353,
+        "pNameCn": "扁穗雀麦"
+      },
+      {
+        "pid": 358,
+        "pNameCn": "白茅"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 367,
+        "pNameCn": "大米草"
+      }
+    ]
+  },
+  {
+    "cID": 445100,
+    "plants": [
+      {
+        "pid": 1,
+        "pNameCn": "紫茎泽兰"
+      },
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 17,
+        "pNameCn": "黄顶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 57,
+        "pNameCn": "毛花雀稗"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 107,
+        "pNameCn": "裂叶牵牛"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 157,
+        "pNameCn": "豆瓣菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 172,
+        "pNameCn": "翅荚决明"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 190,
+        "pNameCn": "紫花大翼豆"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 240,
+        "pNameCn": "香膏萼距花"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 249,
+        "pNameCn": "海边月见草"
+      },
+      {
+        "pid": 251,
+        "pNameCn": "裂叶月见草"
+      },
+      {
+        "pid": 253,
+        "pNameCn": "细叶芹"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 265,
+        "pNameCn": "墨苜蓿"
+      },
+      {
+        "pid": 266,
+        "pNameCn": "月光花"
+      },
+      {
+        "pid": 282,
+        "pNameCn": "蔓马缨丹"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 302,
+        "pNameCn": "阿拉伯婆婆纳"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 353,
+        "pNameCn": "扁穗雀麦"
+      },
+      {
+        "pid": 358,
+        "pNameCn": "白茅"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 406,
+        "pNameCn": "无刺含羞草"
+      }
+    ]
+  },
+  {
+    "cID": 445200,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 4,
+        "pNameCn": "豚草"
+      },
+      {
+        "pid": 7,
+        "pNameCn": "互花米草"
+      },
+      {
+        "pid": 8,
+        "pNameCn": "飞机草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 13,
+        "pNameCn": "大薸"
+      },
+      {
+        "pid": 15,
+        "pNameCn": "蒺藜草"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 20,
+        "pNameCn": "落葵薯"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 26,
+        "pNameCn": "一年蓬"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 29,
+        "pNameCn": "圆叶牵牛"
+      },
+      {
+        "pid": 36,
+        "pNameCn": "假高粱"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 47,
+        "pNameCn": "金合欢"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 50,
+        "pNameCn": "巴拉草"
+      },
+      {
+        "pid": 52,
+        "pNameCn": "大黍"
+      },
+      {
+        "pid": 53,
+        "pNameCn": "地毯草"
+      },
+      {
+        "pid": 54,
+        "pNameCn": "红毛草"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 61,
+        "pNameCn": "象草"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 63,
+        "pNameCn": "草胡椒"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 72,
+        "pNameCn": "牛膝菊"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 76,
+        "pNameCn": "熊耳草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 80,
+        "pNameCn": "羽芒菊"
+      },
+      {
+        "pid": 81,
+        "pNameCn": "肿柄菊"
+      },
+      {
+        "pid": 82,
+        "pNameCn": "假马鞭草"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 86,
+        "pNameCn": "颠茄"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 89,
+        "pNameCn": "喀西茄"
+      },
+      {
+        "pid": 90,
+        "pNameCn": "曼陀罗"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 92,
+        "pNameCn": "野胡萝卜"
+      },
+      {
+        "pid": 94,
+        "pNameCn": "美洲商陆"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 97,
+        "pNameCn": "龙珠果"
+      },
+      {
+        "pid": 98,
+        "pNameCn": "仙人掌"
+      },
+      {
+        "pid": 100,
+        "pNameCn": "刺花莲子草"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 104,
+        "pNameCn": "银花苋"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 109,
+        "pNameCn": "三裂叶薯"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 145,
+        "pNameCn": "单刺仙人掌"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 157,
+        "pNameCn": "豆瓣菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 186,
+        "pNameCn": "南美山蚂蝗"
+      },
+      {
+        "pid": 190,
+        "pNameCn": "紫花大翼豆"
+      },
+      {
+        "pid": 198,
+        "pNameCn": "刺槐"
+      },
+      {
+        "pid": 200,
+        "pNameCn": "白灰毛豆"
+      },
+      {
+        "pid": 208,
+        "pNameCn": "野老鹳草"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 233,
+        "pNameCn": "蛇婆子"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 249,
+        "pNameCn": "海边月见草"
+      },
+      {
+        "pid": 251,
+        "pNameCn": "裂叶月见草"
+      },
+      {
+        "pid": 253,
+        "pNameCn": "细叶芹"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 272,
+        "pNameCn": "金钟藤"
+      },
+      {
+        "pid": 281,
+        "pNameCn": "假连翘"
+      },
+      {
+        "pid": 284,
+        "pNameCn": "短柄吊球草"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 303,
+        "pNameCn": "猫爪藤"
+      },
+      {
+        "pid": 310,
+        "pNameCn": "北美车前"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 334,
+        "pNameCn": "万寿菊"
+      },
+      {
+        "pid": 350,
+        "pNameCn": "野燕麦"
+      },
+      {
+        "pid": 359,
+        "pNameCn": "黑麦草"
+      },
+      {
+        "pid": 362,
+        "pNameCn": "牧地狼尾草"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      },
+      {
+        "pid": 369,
+        "pNameCn": "香根草"
+      }
+    ]
+  },
+  {
+    "cID": 445300,
+    "plants": [
+      {
+        "pid": 2,
+        "pNameCn": "薇甘菊"
+      },
+      {
+        "pid": 3,
+        "pNameCn": "空心莲子草"
+      },
+      {
+        "pid": 9,
+        "pNameCn": "凤眼莲"
+      },
+      {
+        "pid": 11,
+        "pNameCn": "马缨丹"
+      },
+      {
+        "pid": 16,
+        "pNameCn": "银胶菊"
+      },
+      {
+        "pid": 18,
+        "pNameCn": "土荆芥"
+      },
+      {
+        "pid": 19,
+        "pNameCn": "刺苋"
+      },
+      {
+        "pid": 21,
+        "pNameCn": "反枝苋"
+      },
+      {
+        "pid": 23,
+        "pNameCn": "三叶鬼针草"
+      },
+      {
+        "pid": 24,
+        "pNameCn": "小蓬草"
+      },
+      {
+        "pid": 25,
+        "pNameCn": "苏门白酒草"
+      },
+      {
+        "pid": 27,
+        "pNameCn": "假臭草"
+      },
+      {
+        "pid": 37,
+        "pNameCn": "蓖麻"
+      },
+      {
+        "pid": 38,
+        "pNameCn": "飞扬草"
+      },
+      {
+        "pid": 39,
+        "pNameCn": "木薯"
+      },
+      {
+        "pid": 43,
+        "pNameCn": "田菁"
+      },
+      {
+        "pid": 45,
+        "pNameCn": "巴西含羞草"
+      },
+      {
+        "pid": 48,
+        "pNameCn": "簕仔树"
+      },
+      {
+        "pid": 49,
+        "pNameCn": "银合欢"
+      },
+      {
+        "pid": 56,
+        "pNameCn": "两耳草"
+      },
+      {
+        "pid": 58,
+        "pNameCn": "牛筋草"
+      },
+      {
+        "pid": 59,
+        "pNameCn": "铺地黍"
+      },
+      {
+        "pid": 62,
+        "pNameCn": "莠狗尾草"
+      },
+      {
+        "pid": 64,
+        "pNameCn": "赛葵"
+      },
+      {
+        "pid": 65,
+        "pNameCn": "白花鬼针草"
+      },
+      {
+        "pid": 68,
+        "pNameCn": "金腰箭"
+      },
+      {
+        "pid": 70,
+        "pNameCn": "苦苣菜"
+      },
+      {
+        "pid": 73,
+        "pNameCn": "三裂叶蟛蜞菊"
+      },
+      {
+        "pid": 74,
+        "pNameCn": "胜红蓟"
+      },
+      {
+        "pid": 75,
+        "pNameCn": "香丝草"
+      },
+      {
+        "pid": 78,
+        "pNameCn": "野茼蒿"
+      },
+      {
+        "pid": 83,
+        "pNameCn": "土人参"
+      },
+      {
+        "pid": 84,
+        "pNameCn": "阔叶丰花草"
+      },
+      {
+        "pid": 88,
+        "pNameCn": "假烟叶树"
+      },
+      {
+        "pid": 89,
+        "pNameCn": "喀西茄"
+      },
+      {
+        "pid": 91,
+        "pNameCn": "水茄"
+      },
+      {
+        "pid": 95,
+        "pNameCn": "含羞草决明"
+      },
+      {
+        "pid": 99,
+        "pNameCn": "凹头苋"
+      },
+      {
+        "pid": 101,
+        "pNameCn": "青葙"
+      },
+      {
+        "pid": 105,
+        "pNameCn": "皱果苋"
+      },
+      {
+        "pid": 106,
+        "pNameCn": "野甘草"
+      },
+      {
+        "pid": 110,
+        "pNameCn": "五爪金龙"
+      },
+      {
+        "pid": 112,
+        "pNameCn": "小叶冷水花"
+      },
+      {
+        "pid": 113,
+        "pNameCn": "紫茉莉"
+      },
+      {
+        "pid": 114,
+        "pNameCn": "红花酢浆草"
+      },
+      {
+        "pid": 115,
+        "pNameCn": "水盾草"
+      },
+      {
+        "pid": 155,
+        "pNameCn": "臭荠"
+      },
+      {
+        "pid": 156,
+        "pNameCn": "北美独行菜"
+      },
+      {
+        "pid": 167,
+        "pNameCn": "木豆"
+      },
+      {
+        "pid": 169,
+        "pNameCn": "光叶决明"
+      },
+      {
+        "pid": 188,
+        "pNameCn": "野青树"
+      },
+      {
+        "pid": 218,
+        "pNameCn": "麻疯树"
+      },
+      {
+        "pid": 230,
+        "pNameCn": "野西瓜苗"
+      },
+      {
+        "pid": 244,
+        "pNameCn": "番石榴"
+      },
+      {
+        "pid": 254,
+        "pNameCn": "刺芹"
+      },
+      {
+        "pid": 257,
+        "pNameCn": "长春花"
+      },
+      {
+        "pid": 259,
+        "pNameCn": "马利筋"
+      },
+      {
+        "pid": 286,
+        "pNameCn": "山香"
+      },
+      {
+        "pid": 304,
+        "pNameCn": "鸭嘴花"
+      },
+      {
+        "pid": 329,
+        "pNameCn": "菊芋"
+      },
+      {
+        "pid": 332,
+        "pNameCn": "裸柱菊"
+      },
+      {
+        "pid": 364,
+        "pNameCn": "棕叶狗尾草"
+      }
+    ]
+  }
+]

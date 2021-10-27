@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN" id="home">
+
+<head>
+  <base href="/iapis/" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>主页-广东省外来入侵植物数据库及风险评估系统</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="css/main_style.css" />
+  <link rel="stylesheet" href="css/home_style.css" />
+  <script src="js/master_page.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/swiper-bundle.min.js"></script>
+  <script src="js/echarts.min.js"></script>
+  <script src="js/home.js"></script>
+</head>
+
+<body>
+  <script>
+    createhead();
+  </script>
+
+  <!-- Swiper -->
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><iframe src="beeimg.html"></iframe></div>
+      <div class="swiper-slide">
+        <ul>
+          <li class="pic1">
+            <div class="txt">
+              <p class="p1">飞机草</p>
+              <p class="p2">多年生草本植物，根茎粗壮，横走。</p>
+            </div>
+          </li>
+          <li class="pic2">
+            <div class="txt">
+              <p class="p1">风眼莲</p>
+              <p class="p2">浮水草本。须根发达，棕黑色。</p>
+            </div>
+          </li>
+          <li class="pic3">
+            <div class="txt">
+              <p class="p1">薇甘菊</p>
+              <p class="p2">多年生草质或木质藤本，茎细长，匍匐或攀缘。</p>
+            </div>
+          </li>
+          <li class="pic4">
+            <div class="txt">
+              <p class="p1">五爪金龙</p>
+              <p class="p2">多年生缠绕草本，全体无毛，老时根上具块根。</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+  </div>
+
+  <div class="infoframe heart">
+    <div class="info" id="info1">
+      <h1>外来入侵植物的种类组成</h1>
+      <h6></h6>
+      <table class="info1table">
+        <tbody>
+          <tr>
+            <th colspan="7">广东主要外来入侵植物种类组成</th>
+          </tr>
+          <tr>
+            <th rowspan="2">类别</th>
+            <th colspan="2">科</th>
+            <th colspan="2">属</th>
+            <th colspan="2">种</th>
+          </tr>
+          <tr>
+            <th>数量</th>
+            <th>百分比（%）</th>
+            <th>数量</th>
+            <th>百分比（%）</th>
+            <th>数量</th>
+            <th>百分比（%）</th>
+          </tr>
+          <tr>
+            <th>双子叶植物</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+          <tr>
+            <th>单子叶植物</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+          <tr>
+            <th>合 计</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </tbody>
+      </table>
+      <div class="infocontainer" id="infocontainer1"></div>
+    </div>
+    <div class="info" id="info2">
+      <h1>外来入侵植物的原产地</h1>
+      <h6></h6>
+      <div class="infocontainer" id="infocontainer2"></div>
+    </div>
+    <div class="info" id="info3">
+      <h1>外来入侵植物的生活型</h1>
+      <h6></h6>
+      <div class="infocontainer" id="infocontainer3"></div>
+    </div>
+  </div>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+      loop: true, //环路，让Swiper看起来是循环的
+      speed: 1000, //速度
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+    });
+    $(".swiper-slide").mouseover(function () {
+      swiper.autoplay.stop();
+    });
+    // 鼠标离开 继续轮播
+    $(".swiper-slide").mouseout(function () {
+      swiper.autoplay.start();
+    });
+  </script>
+  <script>
+    $(function () {
+      $(".swiper-slide ul li").mouseover(function () {
+        $(this).stop(true).animate({
+          width: "785px"
+        }, 400).siblings().stop(true).animate({
+          width: "100px"
+        }, 400);
+      });
+      creatCharts();
+    });
+  </script>
+  <script>
+    createtail();
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+{
+  "unit": "种/百平方公里",
+  "title": {
+    "text": "入侵物种密度",
+    "subtext": "数据说明：入侵物种密度 = 入侵物种的种数 / 行政区域面积"
+  },
+  "tooltip": {
+    "formatter": "{b}<br>{c}"
+  },
+  "toolbox": {
+    "feature": {
+      "dataView": {
+        "optionToContent": {
+          "name": "地市",
+          "value": "物种密度"
+        }
+      }
+    }
+  },
+  "visualMap": {
+    "splitNumber": 10,
+    "precision": 3,
+    "inRange": {
+      "color": ["#FEE1E1", "#BA3737"]
+    }
+  },
+  "series": [
+    {
+      "data": []
+    }
+  ]
+}

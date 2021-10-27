@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <base href="/iapis/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/enements_style.css" />
+</head>
+
+<body>
+    <select name="enements" class="selectbox">
+      <option value="temperature">累年年平均气温</option>
+      <option value="temperatureMax">累年年平均最高气温</option>
+      <option value="temperatureMin">累年年平均最低气温</option>
+      <option value="rain">累年年平均降水量</option>
+      <option value="rain08">累年08-08时平均年降水量</option>
+      <option value="rain20">累年20-20时平均年降水量</option>
+      <option value="sunshine">累年年平均日照时数</option>
+    </select>
+    <div id="container" class="map"></div>
+  <script src="//webapi.amap.com/maps?v=2.0&key=af623eef450ea6e447829438b62a1168"></script>
+  <script src="//webapi.amap.com/ui/1.1/main.js"></script>
+  <script src="js/enement_map.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/echarts.min.js"></script>
+  <script src="js/database.js"></script>
+  <script>
+    $(function () {
+      recreate();
+      $(".selectbox").change(recreate);
+    });
+
+    function recreate() {
+      createEvmtMap($(".selectbox").find("option:selected").val(), "json/environment_map_options.json");
+    }
+  </script>
+</body>
+
+</html>

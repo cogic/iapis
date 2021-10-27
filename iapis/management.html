@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base href="/iapis/" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>管理员界面</title>
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <!-- <script>
+        var server_base_url =
+            window.location.protocol + "//" + window.location.host;
+        var pathname = window.location.pathname;
+        pathname = pathname.substring(0, pathname.indexOf("/", 1) + 1);
+        server_base_url = server_base_url + pathname;
+        console.log(server_base_url);
+        document.write(" <script src=\""+server_base_url+"js/jquery.js\"><\/script>");
+    </script> -->
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" href="//res.layui.com/layui/dist/css/layui.css?t=1623988781494" media="all" />
+    <!-- 引入 layui.css -->
+    <link rel="stylesheet" href="//unpkg.com/layui@2.6.8/dist/css/layui.css" />
+    <!-- 引入 layui.js -->
+    <script src="//unpkg.com/layui@2.6.8/dist/layui.js"></script>
+    <!--引入bootstrap-->
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="css/management_style.css" />
+    <script src="js/management_table.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/database.js"></script>
+    <script src="js/adapter.js"></script>
+  </head>
+
+  <body>
+    <div class="layui-layout layui-layout-admin">
+      <!-- 头部区域 -->
+      <div class="layui-header">
+        <!--右上角-->
+        <ul class="layui-nav layui-layout-right">
+          <li class="layui-nav-item layui-hide layui-show-md-inline-block">
+            <div style="cursor: pointer">
+              <img src="https://gitee.com/lin-xibin/image-repository/raw/master/img/20210701221101.png" class="layui-nav-img" />
+              Admin
+            </div>
+            <dl class="layui-nav-child">
+              <dd><a href="javascript:;">退出登录</a></dd>
+            </dl>
+          </li>
+        </ul>
+      </div>
+
+      <!-- 左侧导航区域 -->
+      <div class="layui-side layui-bg-black">
+        <div class="layui-side-scroll">
+          <ul class="layui-nav layui-nav-tree" lay-filter="test">
+            <li id="thispage" class="layui-nav-item">
+              <a href="management.html" style="text-decoration: none">管理入侵植物总信息库</a>
+            </li>
+            <li class="layui-nav-item">
+              <a href="management1.html" style="text-decoration: none">查看专家风险评估结果</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- 内容主体区域 -->
+      <div class="layui-body">
+        <div class="container">
+          <div class="row clearfix">
+            <div class="col-md-12 column">
+              <div class="page-header">
+                <h1>
+                  <small>外来入侵物种列表</small>
+                </h1>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-4 column">
+                <a id="addpl" class="btn btn-primary" href="management_add.html" target="_blank">加入新植物</a>
+              </div>
+              <div id="secdiv" class="col-md-4 column">
+                <!-- <form class="form-inline"> -->
+                <input type="text" name="queryBookName" id="ipt" placeholder="请输入植物的中文名" class="form-control" required />
+                <input type="submit" value="快速定位" id="search" class="btn btn-primary" />
+                <!-- </form> -->
+              </div>
+            </div>
+          </div>
+          <div class="row clearfix">
+            <div class="col-md-12 column">
+              <div id="tableframe">
+                <table class="plants-table">
+                  <thead>
+                    <tr>
+                      <th class="num">序</th>
+                      <th class="cnName">中文名</th>
+                      <th class="scientificName">学名</th>
+                      <th class="family">科</th>
+                      <th class="genus">属</th>
+                      <th class="provenance">原产地</th>
+                      <th class="details">操作</th>
+                    </tr>
+                  </thead>
+                </table>
+              </div>
+            </div>
+            <!-- 翻页 -->
+            <div class="pagebox">
+              <select class="pageSizeSelect">
+                <option value="10" selected>10 条/页</option>
+                <option value="20">20 条/页</option>
+                <option value="30">30 条/页</option>
+                <option value="40">40 条/页</option>
+                <option value="50">50 条/页</option>
+              </select>
+              <span class="pagebox_first">首页</span>
+              <span class="pagebox_pre">上一页</span>
+              <span class="pagebox_next">下一页</span>
+              <span class="pagebox_last">末页</span>
+              <span class="pagebox_count">error</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 底部固定区域 -->
+      <div class="layui-footer">
+        <p align="center">© 2021 华南农业大学 农村人居环境入侵植物风险评估和监测预警 团队</p>
+      </div>
+    </div>
+    <script>
+      function query() {
+        $.post("/iapis/admin/query", { name: $("#search").val() });
+      }
+    </script>
+    <script src="//res.layui.com/layui/dist/layui.js?t=1623988781494" charset="utf-8"></script>
+    <!-- <script>
+      iframe窗
+      layer.open({
+        type: 2,
+        title: false,
+        closeBtn: 0, //不显示关闭按钮
+        shade: [0],
+        area: ["340px", "100px"],
+        offset: [0, 600], //弹窗位置
+        time: 1500, //1.5秒后自动关闭
+        anim: 2,
+        content: ["welcomeAdmin.html", "no"], //iframe的url，no代表不显示滚动条
+      });
+    </script> -->
+    <script>
+      $(function(){
+        createTable();
+        $("#search").click(recreate);
+        $("#thispage").css("background-color", "#537ac2");
+      })
+      function recreate(a) {
+        createTable($("#ipt").val());
+      }
+    </script>
+  </body>
+</html>

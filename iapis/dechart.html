@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <base href="/iapis/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/enements_style.css" />
+</head>
+
+<body>
+    <div id="container" class="map"></div>
+    <script src="//webapi.amap.com/maps?v=2.0&key=af623eef450ea6e447829438b62a1168"></script>
+    <script src="//webapi.amap.com/ui/1.1/main.js"></script>
+    <script src="js/density_map.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/echarts.min.js"></script>
+    <script src="js/database.js"></script>
+    <script>
+        $(function () {
+            recreate();
+            $(".selectbox").change(recreate);
+        });
+
+        function recreate() {
+            createDensityMap("json/density_map_options.json");
+        }
+    </script>
+</body>
+
+</html>

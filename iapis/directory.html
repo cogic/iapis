@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-CN" id="species_list">
+
+<head>
+  <base href="/iapis/">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>入侵物种名录-广东省外来入侵植物数据库及风险评估系统</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/main_style.css" />
+  <link rel="stylesheet" href="css/species_list_style.css" />
+  <script src="js/master_page.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/species_table.js"></script>
+  <script src="js/database.js"></script>
+  <script src="js/adapter.js"></script>
+</head>
+
+<body>
+  <script>
+    createhead();
+  </script>
+  <div id="frame" class="heart">
+    <div class="search">
+      <!-- 选择名录 -->
+      <select name="lists" class="listselectbox">
+        <option value="list1">国家重点管理外来入侵物种名录(第一批)</option>
+        <option value="list2">中华人民共和国生态环境保护部公布的4 批中国外来入侵物种名单</option>
+        <option value="list3">全球100 种最具有破坏力的入侵物种名单</option>
+        <option value="list4">中国外来入侵物种数据库中收录的植物名录</option>
+        <option value="list5">中华人民共和国进境植物检疫性有害生物名录(截止2017 年6 月)</option>
+      </select>
+
+      <!-- 选择检索标签 -->
+      <select name="tags" class="searchbox">
+        <option value="cnName">按中文名检索</option>
+        <option value="scientificName">按学名检索</option>
+        <option value="family">按科名检索</option>
+      </select>
+      <input id="searchcontent" name="content" type="text" placeholder="输入要检索的内容" />
+      <span class="cleariconfont">&#xe62f;</span>
+      <button id="confirm" type="submit"><span class="searchiconfont">&#xe632;</span></button>
+      <!-- <button id="clear" type="submit"></button> -->
+    </div>
+
+    <!-- 列表 -->
+    <div class="tablebox">
+      <table>
+        <thead>
+          <tr>
+            <th class="num">序</th>
+            <th class="cnName">中文名</th>
+            <th class="scientificName">学名</th>
+            <th class="family">科</th>
+            <th class="genus">属</th>
+            <th class="provenance">地理分布</th>
+            <th class="details">详情</th>
+          </tr>
+        </thead>
+      </table>
+
+      <!-- 翻页 -->
+      <div class="pagebox">
+        <select class="pageSizeSelect">
+          <option value="10">10 条/页</option>
+          <option value="20" selected>20 条/页</option>
+          <option value="30">30 条/页</option>
+          <option value="40">40 条/页</option>
+          <option value="50">50 条/页</option>
+        </select>
+        <span class="pagebox_first">首页</span>
+        <span class="pagebox_pre">上一页</span>
+        <span class="pagebox_next">下一页</span>
+        <span class="pagebox_last">末页</span>
+        <span class="pagebox_count">error</span>
+      </div>
+    </div>
+  </div>
+  <script>
+    $(function () {
+      $(".cleariconfont").hide();
+      recreate(); //页面加载后调用
+      $(".listselectbox").change(function () {
+        //目录切换事件
+        $("#searchcontent").val("");
+        recreate();
+      });
+      $("#confirm").click(recreate); //搜索按钮的点击事件
+      $("#searchcontent").on("input propertychange", function () {
+        $(this).val($(this).val().replace(" ", ""));
+        if ($(this).val() != "") {
+          $("#searchcontent").css("font-weight", "bold");
+          $(".cleariconfont").show();
+        } else {
+          $("#searchcontent").css("font-weight", "normal");
+          $(".cleariconfont").hide();
+        }
+      });
+      $(".cleariconfont").click(function () {
+        //清除按钮的点击事件
+        $("#searchcontent").css("font-weight", "normal");
+        $(".cleariconfont").hide();
+        $("#searchcontent").val("");
+        recreate();
+      });
+    })
+
+    function recreate(a) {
+      createTable($(".listselectbox").find("option:selected").val(), $(".searchbox").find("option:selected").val(), $(
+        "#searchcontent").val());
+    }
+  </script>
+  <script>
+    createtail();
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,170 @@
+[
+  [
+    "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;广东省有外来入侵植物366种，隶属于62科，255属；其中双子叶植物有313种，占入侵植物总数的85.51%。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从科的大小排序上看，菊科、豆科、禾本科位列入广东入侵植物前三位，分别有63种、56种和38种；其他有10种入侵植物以上的科由高到低依次为苋科、旋花科、大戟科、茄科，分别有18种、18种、16种和13种，以上7科入侵植物数量共有219种，分别占入侵植物总量的17.21%、15.30%、10.38%、4.91%、4.91%、4.37%和3.55%，占广东省主要入侵植物总数量的60%。",
+    "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;广东省主要入侵植物中来自美洲的数量最多，共220种，占全省外来入侵植物总数的60.10%；其次是原产地为亚洲的有66种，占18.03%；来源于欧洲和非洲的入侵植物数量均为40种，占10.92%；来源于大洋洲的有12种，占3.27%；来自于地中海地区的有7种，占1.91%。；另有19种入侵植物原产地不详，占总数的5.19%。",
+    "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;广东省外来入侵植物的生活型分为草本、木本（乔木、灌木）、藤本、蕨类四类，其中以草本植物占主导优势，有278种，占所有入侵植物的75.95%，而木本植物只有55种，占15.02%，藤本植物有33种，占9.01%。"
+  ],
+  [
+    [56, 88.9, 216, 84.7, 313, 85.51],
+    [7, 11.1, 39, 15.3, 53, 14.49]
+  ],
+  {
+    "title": {
+      "text": "广东省主要外来入侵植物科前10位排序",
+      "textStyle": {
+        "color": "#000000",
+        "fontSize": 16
+      },
+      "left": "center"
+    },
+    "tooltip": {
+      "trigger": "item",
+      "formatter": "{b}：{c} 种"
+    },
+    "xAxis": {
+      "type": "category",
+      "name": "科名",
+      "nameTextStyle": {
+        "color": "#000000"
+      },
+      "axisTick": {
+        "alignWithLabel": true
+      },
+      "axisLabel": {
+        "overflow": "break",
+        "interval": 0,
+        "width": 0,
+        "color": "#000000"
+      },
+      "data": ["菊科", "豆科", "禾本科", "苋科", "旋花科", "大戟科", "茄科", "茜草科", "马鞭草科", "唇形科", "玄参科"]
+    },
+    "yAxis": {
+      "type": "value",
+      "name": "数量（种）",
+      "nameTextStyle": {
+        "color": "#000000"
+      },
+      "axisLabel": {
+        "color": "#000000"
+      }
+    },
+    "series": [
+      {
+        "type": "bar",
+        "label": {
+          "show": true,
+          "position": "top",
+          "emphasis": {
+            "fontSize": 16
+          }
+        },
+        "itemStyle": {
+          "color": "#467B3D"
+        },
+        "emphasis": {
+          "blurScope": "coordinateSystem",
+          "itemStyle": {
+            "color": "#49933C",
+            "shadowColor": "rgba(0,0,0,1)",
+            "shadowBlur": 3
+          }
+        },
+        "data": [63, 56, 38, 18, 18, 16, 13, 7, 7, 7, 7]
+      }
+    ]
+  },
+  {
+    "title": {
+      "text": "广东省主要外来入侵植物原产地分布情况",
+      "textStyle": {
+        "color": "#000000",
+        "fontSize": 16
+      },
+      "left": "center"
+    },
+    "tooltip": {
+      "trigger": "item",
+      "formatter": "{b}：{c} 种"
+    },
+    "legend": {
+      "orient": "vertical",
+      "left": "15%",
+      "top": "center"
+    },
+    "series": [
+      {
+        "type": "pie",
+        "radius": "50%",
+        "center": ["65%", "50%"],
+        "label": {
+          "formatter": "{d}%",
+          "emphasis": {
+            "fontSize": 16
+          }
+        },
+        "data": [
+          { "value": 220, "name": "美洲" },
+          { "value": 66, "name": "亚洲" },
+          { "value": 40, "name": "欧洲" },
+          { "value": 40, "name": "非洲" },
+          { "value": 12, "name": "大洋洲" },
+          { "value": 7, "name": "地中海" },
+          { "value": 19, "name": "不详" }
+        ],
+        "emphasis": {
+          "itemStyle": {
+            "shadowBlur": 10,
+            "shadowOffsetX": 0,
+            "shadowColor": "rgba(0, 0, 0, 0.5)"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "title": {
+      "text": "广东省主要外来入侵植物生活型分布情况",
+      "textStyle": {
+        "fontSize": 16,
+        "color": "#000000"
+      },
+      "left": "center"
+    },
+    "tooltip": {
+      "trigger": "item",
+      "formatter": "{b}：{c} 种"
+    },
+    "legend": {
+      "orient": "vertical",
+      "left": "15%",
+      "top": "center"
+    },
+    "color": ["#b84448", "#e8bf24", "#29a7dd", "#2b821d", "#005eaa", "#339ca8", "#cda819", "#32a487", "#ea7ccc"],
+    "series": [
+      {
+        "type": "pie",
+        "radius": "50%",
+        "center": ["65%", "50%"],
+        "label": {
+          "formatter": "{d}%",
+          "emphasis": {
+            "fontSize": 16
+          }
+        },
+        "data": [
+          { "value": 278, "name": "草本" },
+          { "value": 55, "name": "木本" },
+          { "value": 33, "name": "藤本" },
+          { "value": 0, "name": "蕨类" }
+        ],
+        "emphasis": {
+          "itemStyle": {
+            "shadowBlur": 10,
+            "shadowOffsetX": 0,
+            "shadowColor": "rgba(0, 0, 0, 0.5)"
+          }
+        }
+      }
+    ]
+  }
+]

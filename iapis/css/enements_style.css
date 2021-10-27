@@ -1,0 +1,96 @@
+* {
+  transition: all 0.3s;
+  margin: 0;
+  padding: 0;
+}
+
+#frame {
+  position: relative;
+  top: 0;
+  /* background-color: #318dca; */
+  /* width: 800px; */
+  /* height: 100px; */
+}
+
+iframe{
+  width: 100%;
+  height: 550px;
+}
+
+select {
+  outline: none;
+}
+
+select option {
+  color: #4e4e4e;
+}
+
+.selectbox {
+  position: absolute;
+  /* position: relative; */
+  top: 30px;
+  left: 50%;
+  margin-left: -150px;
+  /* float: left; */
+  width: 300px;
+  /* height: 34px; */
+  font-size: 16px;
+  cursor: pointer;
+  border-width: 2px;
+  border-radius: 3px;
+  background-color: #e1ecee;
+  border-color: #5f9ec9;
+  padding: 6px;
+}
+
+.selectbox:hover {
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.map {
+  position: absolute;
+  top: 90px;
+  left: 50%;
+  background-color: #ffffff;
+  border: 2px solid #696969;
+  border-radius: 7px;
+  height: 450px;
+  width: 750px;
+  margin-left: -375px;
+  /* margin-bottom: 120px; */
+}
+
+.map:hover {
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.25);
+}
+
+#dataChart{
+  height: 100%;
+  width:100% ;
+  /* background-color: rgb(255, 255, 255); */
+}
+
+.geoimg{
+  position: relative;
+  top: 30px;
+  left: 50%;
+  margin-left: -377px;
+  background-color: #ffffff;
+  border: 2px solid #696969;
+  border-radius: 7px;
+  /* height: 450px; */
+  width: 740px;
+  /* margin-bottom: 120px; */
+  padding: 5px;
+  /* background-color: bisque; */
+  /* width: 900px; */
+}
+
+.geoimg:hover {
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.25);
+}
+
+.geoimg img{
+  /* margin-left: 50px; */
+  width: 740px;
+}

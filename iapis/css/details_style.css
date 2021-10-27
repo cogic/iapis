@@ -1,0 +1,119 @@
+
+#menu_species_list_details {
+  float: left;
+  list-style-type: none;
+  height: 25px;
+  padding: 5px 15px 0px 15px;
+  font-size: 15px;
+  cursor:default;
+  background-color: #ffffff;
+  font-weight: bold;
+  color: #647e6a;
+}
+
+#detailframe{
+  position: relative;
+  top: 40px;
+  background-color: rgb(64, 110, 82);
+  padding: 20px 0 30px 0;
+  /* border-radius: 7px; */
+  width: 1000px;
+  margin-bottom: 100px;
+}
+
+table{
+  width: 1000px;
+  border-collapse: collapse;
+  /* border: 1px solid #647e6a; */
+  background-color: rgb(246, 246, 246);
+}
+
+table:hover {
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+table tr:first-child{
+  border-bottom: 5px solid #ebebeb;
+}
+
+table tr:first-child td{
+  color: #52745a;
+  font-size: 20px;
+}
+
+table td{
+  font-size: 16px;
+  padding: 10px 10px 10px 10px;
+}
+
+table td:first-child{
+  color: #535a54;
+  text-align: center;
+  font-weight: bold;
+}
+
+.attr{
+  min-width: 100px;
+  max-width: 100px;
+}
+
+table td:nth-child(even){
+  min-width: 800px;
+  max-width: 800px;
+  word-wrap:break-word;
+  overflow:hidden;
+}
+
+.imgtd{
+  height: 300px;
+}
+
+#images img{
+  padding: 20px;
+  /* margin: 10px; */
+  height:180px;
+  width: 180px;
+  cursor: pointer;
+}
+
+#images img:hover{
+  /* margin-bottom: 0px; */
+  /* margin-right: 10px; */
+  /* padding: 0px; */
+  /* height: 210px; */
+  /* width: 210px; */
+  box-shadow: 0px 0px 9px 2px rgba(0, 0, 0, 0.25);
+
+}
+
+.fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.26);
+  width: 100%;
+  height: 100%;
+  z-index: 15;
+}
+
+.picbox{
+  position: absolute;
+  top: calc(50% - 280px);
+  left: calc(50% - 250px);
+  /* width: 300px; */
+  height: 500px;
+  width: 500px;
+  /* background-color: #ffffff; */
+  /* border-radius: 10px; */
+  z-index: 15;
+  overflow: hidden;
+}
+
+.picbox img {
+  box-sizing: border-box;
+  border: 10px solid #ffffff;
+  width: 500px;
+  max-height: 500px;
+  z-index: 16;
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-CN" id="risk_assessment">
+
+<head>
+  <base href="/iapis/" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>风险评估-广东省外来入侵植物数据库及风险评估系统</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/main_style.css" />
+  <link rel="stylesheet" href="css/assessment_style.css" />
+  <script src="js/master_page.js"></script>
+  <script src="js/assessment_table.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/database.js"></script>
+  <script src="js/adapter.js"></script>
+</head>
+
+<body>
+  <script>
+    createhead();
+  </script>
+
+  <div id="frame" class="heart">
+    <div id="questionnaire">
+      <h1>广东省入侵植物风险评估三级指标评价专家咨询</h1>
+      <h2>调查问卷</h2>
+      <div id="inframe">
+        <table id="assessment">
+          <tr>
+            <td id="la">
+              <span id="planttip">您要评估的植物：</span>
+              <div id="plantdiv">
+                <input id="plant" type="text" list="plantlist" autocomplete="off" placeholder="植物名" />
+                <div id="plantlist">
+                  <div id="nomatch">*无匹配</div>
+                </div>
+              </div>
+              <span id="checktip"></span>
+            </td>
+          </tr>
+        </table>
+        <button id="clear">清空</button>
+        <button id="commit">提交</button>
+      </div>
+    </div>
+  </div>
+  <a id="gotop" onclick="javascript:document.getElementsByTagName('BODY')[0].scrollTop=0;">
+    <span class="upiconfont">&#xe7dd;</span>
+  </a>
+  <div class="fullscreen clearfull" hidden="hidden">
+    <div class="fullscreen clearfull quit"></div>
+    <div class="checkbox">
+      <span class="warnconfont">&#xe61e;</span>
+      <h1>确定要 [清除] 所有已选项吗？</h1>
+      <span class="button quit">取消</span><span class="button yesclear">清除</span>
+    </div>
+  </div>
+  <div class="fullscreen commitfull" hidden="hidden">
+    <div class="fullscreen commitfull quit"></div>
+    <div class="checkbox">
+      <span class="warnconfont">&#xe61e;</span>
+      <h1>确定要 [提交] 您的问卷吗？</h1>
+      <h2>【评估结果】<br>物种：<br>分值：<br>风险等级：</h2>
+      <span class="button quit">取消</span><span class="button yescommit">提交</span>
+    </div>
+  </div>
+  <div class="fullscreen checkfull" hidden="hidden">
+    <div class="fullscreen checkfull quit"></div>
+    <div class="checkbox">
+      <span class="warnconfont">&#xe61e;</span>
+      <h1>请填写完毕再提交！</h1>
+      <span class="button quit">继续填写</span>
+    </div>
+  </div>
+  <div class="fullscreen recheckfull" hidden="hidden">
+    <div class="fullscreen recheckfull quit"></div>
+    <div class="checkbox">
+      <span class="warnconfont">&#xe61e;</span>
+      <h1>请填写完毕再提交！</h1>
+      <h2></h2>
+      <span class="button quit">继续填写</span>
+    </div>
+  </div>
+  <script>
+    $(function () {
+      createAssessmentTable();
+    })
+  </script>
+  <script>
+    createtail();
+  </script>
+  <script>
+    $(function () {
+      // window.onbeforeunload = function (event) {
+      //   event.returnValue = "刷新";
+      // };
+      $(window).scroll(function () {
+        //只要窗口滚动,就触发下面代码
+        var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //获取滚动后的高度
+        if (scrollt > 500) {
+          //判断滚动后高度超过200px,就显示
+          $("#gotop").stop().fadeIn(200); //淡出
+        } else {
+          $("#gotop").stop().fadeOut(100); //如果返回或者没有超过,就淡入.必须加上stop()停止之前动画,否则会出现闪动
+        }
+      });
+      $("#gotop").on("click", function () {
+        console.log("ddd");
+        //当点击标签的时候,使用animate在200毫秒的时间内,滚到顶部
+        $("html,body").animate({
+          scrollTop: "0px"
+        }, 200);
+      });
+    });
+  </script>
+</body>
+
+</html>

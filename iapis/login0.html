@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <base href="/iapis/">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>管理员登录</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/main_style.css" />
+  <link rel="stylesheet" href="css/login_style.css">
+  <script src="js/jquery.js"></script>
+  <script src="js/database.js"></script>
+  <script src="js/login.js"></script>
+</head>
+
+<body>
+  <div class="header">
+    <a href="home.html">
+      <div id="headlogo"><img src="images/logo.png" alt="logo"></div>
+      <div id="headtitle">
+        <h1>广东省外来入侵植物数据库及风险评估系统</h1>
+        <h2>GUANGDONG PROVINCE INVASIVE ALIEN PLANT DATABASE AND RISK ASSESSMENT SYSTEM</h2>
+      </div>
+    </a>
+  </div>
+  <div class="frame">
+    <div id="logindiv" class="heart">
+      <!-- <form action="" method="post"> -->
+      <table id="formtable">
+        <tr>
+          <td id="title">
+            <h5>管理员登录</h5>
+          </td>
+        </tr>
+        <tr>
+          <td id="uname" class="inp"><label>账号：</label><input type="text" name="username" /></td>
+        </tr>
+        <tr>
+          <td id="pswd" class="inp"><label>密码：</label><input type="password" name="password" /></td>
+        </tr>
+        <tr>
+          <td>
+            <div class="code">
+              <input type="text" value="" placeholder="验证码(不区分大小写)" class="input-val" />
+              <canvas id="canvas" width="100" height="43"></canvas>
+              <!-- <button class="btn">提交</button> -->
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td id="logn">
+            <button>登录</button>
+            <!-- <a href="management.html">登陆成功</a> -->
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="logintip"></span>
+          </td>
+        </tr>
+      </table>
+      <!-- </form> -->
+    </div>
+  </div>
+  <div class="footer">
+    <h1>联系我们&nbsp;|&nbsp;Email：2739214247@qq.com&nbsp;|&nbsp;Tel：18813326261</h1>
+  </div>
+  <script>
+    $(function () {
+      code_draw();
+      $("#canvas").on('click', function () {
+        code_draw();
+      })
+      $("input").on("input propertychange", function () {
+        $(this).val($(this).val().replace(" ", ""));
+      }).on("focus", function () {
+        $(".logintip").html("");
+      });
+      $("#logn button").on("click", function () {
+        if ($("#uname input").val() == "") {
+          $(".logintip").html("*请输入账号");
+        } else if ($("#pswd input").val() == "") {
+          $(".logintip").html("*请输入密码");
+        } else if ($(".input-val").val() == "") {
+          $(".logintip").html("*请输入验证码");
+        } else {
+          // 将输入的内容转为大写，可通过这步进行大小写验证
+          var val = $(".input-val").val().toLowerCase();
+          // 获取生成验证码值
+          var num = $('#canvas').attr('data-code');
+          if (val == num) {
+            // alert('提交成功！');
+
+            takeData5($("#uname input").val(), $("#pswd input").val(), function (message) {
+              // console.log("登录验证");
+              if (message == "true") {
+                $(".logintip").html("*登录成功");
+                window.location.href = "/iapis/management.html";
+              } else {
+                $(".logintip").html("*账号或密码错误，请重新输入！");
+                // alert("账号或密码错误，请重新输入！");
+              }
+            })
+
+            $(".input-val").val('');
+          } else {
+            // alert('验证码错误！请重新输入！');
+            $(".logintip").html("*验证码错误，请重新输入！");
+            $(".input-val").val('');
+          }
+
+        }
+      })
+    })
+  </script>
+</body>
+
+</html>

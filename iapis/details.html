@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN" id="species_list_details">
+
+<head>
+  <base href="/iapis/" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>详情-广东省外来入侵植物数据库及风险评估系统</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/main_style.css" />
+  <link rel="stylesheet" href="css/details_style.css" />
+  <script src="js/jquery.js"></script>
+  <script src="js/master_page.js"></script>
+  <script src="js/database.js"></script>
+  <script src="js/adapter.js"></script>
+  <script src="js/details_show.js"></script>
+</head>
+
+<body>
+  <script>
+    createhead();
+  </script>
+  <!-- <h1 id="test">HERE</h1> -->
+  <div id="detailframe" class="heart">
+    <table>
+      <tbody>
+        <tr>
+          <td class="attr">中文名</td>
+          <td id="pname_cn"></td>
+        </tr>
+        <tr>
+          <td class="attr">学名</td>
+          <td id="pname_sci"></td>
+        </tr>
+        <tr>
+          <td class="attr">异名</td>
+          <td id="pname_syn"></td>
+        </tr>
+        <tr>
+          <td class="attr">分类地位</td>
+          <td id="sort"></td>
+        </tr>
+        <tr>
+          <td class="attr">英文名</td>
+          <td id="pname_en"></td>
+        </tr>
+        <tr>
+          <td class="attr">别名</td>
+          <td id="pname_alias"></td>
+        </tr>
+        <tr>
+          <td class="attr">地理分布</td>
+          <td id="geographical_distribution"></td>
+        </tr>
+        <tr>
+          <td class="attr">入侵历史</td>
+          <td id="invasion_history"></td>
+        </tr>
+        <tr>
+          <td class="attr">入侵危害</td>
+          <td id="invasion_hazard"></td>
+        </tr>
+        <tr>
+          <td class="attr">形态特征</td>
+          <td id="morphological_characteristic"></td>
+        </tr>
+        <tr>
+          <td class="attr">防治方法</td>
+          <td id="prevention"></td>
+        </tr>
+        <tr>
+          <td class="attr imgtd">图片</td>
+          <td id="images"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="fullscreen picfull" hidden="hidden">
+    <div class="fullscreen quit"></div>
+    <div class="picbox quit">
+      <img src="" alt="图片">
+    </div>
+  </div>
+  <script>
+    $(function () {
+      $("#menu_species_list_details").css("display", "block");
+      greateDTTable();
+      $(".quit").on("click", function () {
+        $(".fullscreen").hide();
+      });
+      $("body").on('click', 'img', function () {
+        $(".picbox img").attr("src",$(this).attr("src"))
+          $(".fullscreen").show();
+      })
+    });
+  </script>
+  <script>
+    createtail();
+  </script>
+</body>
+
+</html>

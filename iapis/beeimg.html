@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <base href="/iapis/">
+  <!-- <base href="/" /> -->
+  <!-- layer 2.3 -->
+  <!-- <link rel="stylesheet" type="text/css" href="http://www.sp2000.org.cn/plugins/layer-2.3/skin/layer.css" /> -->
+  <body>
+    <style>
+      #examples {
+        background: #ddd;
+        height: 350px;
+        overflow: hidden;
+        padding: 0;
+        position: relative;
+      }
+
+      #examples:after,
+      #examples:before {
+        content: "";
+        display: block;
+        width: 100%;
+        position: absolute;
+        background: white;
+        height: 16px;
+        z-index: 2;
+      }
+
+      #examples:before {
+        bottom: -16px;
+        box-shadow: 0px -8px 16px rgba(0, 0, 0, 0.3);
+      }
+
+      #examples:after {
+        top: -16px;
+        box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+      }
+
+      #examples-deep {
+        -webkit-transform-style: preserve-3d;
+        -moz-transform-style: preserve-3d;
+        transform-style: preserve-3d;
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        backface-visibility: hidden;
+      }
+
+      #examples svg,
+      #examples canvas {
+        position: absolute;
+      }
+
+      .example-mesh {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .example-anchor path {
+        fill: none;
+        pointer-events: all;
+      }
+
+      .example-anchor path:hover {
+        /* box-shadow: 0px 0px 15px 9px #000000; */
+        stroke: rgba(255, 255, 255, 0.61);
+        stroke-width: 16px;
+      }
+    </style>
+
+    <div id="examples">
+      <div id="examples-deep"></div>
+    </div>
+    <!-- <script src="js/jquery.js"></script> -->
+    <!-- <script src="js/layer.js"></script> -->
+    <script src="js/v4.min.js" charset="utf-8"></script>
+    <script src="js/matrix_img.js" charset="utf-8"></script>
+  </body>
+</html>

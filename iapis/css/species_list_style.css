@@ -1,0 +1,343 @@
+#frame {
+  position: relative;
+  top: 0;
+  /* background-color: #318dca; */
+  /* width: 800px; */
+  /* height: 100px; */
+}
+
+select {
+  outline: none;
+}
+
+select option {
+  /* color: #777777; */
+  color: #4e4e4e;
+}
+
+.search {
+  /* background-color: #c9320c; */
+  position: relative;
+  top: 30px;
+  left: 50%;
+  margin-left: -440px;
+  height: 34px;
+  /* background-color: #41d37e; */
+  /* width: -moz-fit-content; */
+  /* width: fit-content; */
+  width: 880px;
+}
+
+.listselectbox {
+  float: left;
+  /* width: -moz-fit-content; */
+  width: 500px;
+  height: 34px;
+  font-size: 16px;
+  cursor: pointer;
+  border-width: 2px;
+  border-radius: 3px;
+  background-color: #f1edd9;
+  border-color: #c2b67d;
+  padding: 6px;
+  /* font-size: 15px; */
+}
+
+.listselectbox:hover {
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.searchbox {
+  float: left;
+  cursor: pointer;
+  margin-left: 11px;
+  padding: 6px;
+  height: 34px;
+  width: 120px;
+  border-radius: 3px 0 0 3px;
+  border: 2px solid;
+  border-color: #4375a3;
+  border-right: 0;
+  background-color: #f0f8ff;
+}
+
+.searchbox:hover {
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.search input {
+  float: left;
+  height: 30px;
+  width: 150px;
+  padding: 0 26px 0 10px;
+  border-radius: 0;
+  border: 2px solid;
+  border-color: #4375a3;
+  border-right: 0;
+  color: #000000;
+  outline: none;
+  font-size: 16px;
+}
+
+.search input:focus {
+  box-shadow: inset 0px 0px 5px 0px rgba(14, 115, 209, 0.29);
+}
+
+.search button {
+  float: left;
+  cursor: pointer;
+  height: 34px;
+  /* width: 150px; */
+  border: 0px solid;
+  margin: 0;
+}
+
+/* .search button:hover {
+  font-weight: bold;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+} */
+
+/* .search button:active {
+  box-shadow: inset 0px 0px 25px -8px rgba(250, 250, 250, 0.555);
+} */
+
+.search #confirm {
+  border-radius: 0 3px 3px 0;
+  width: 60px;
+  color: #ffffff;
+  background-color: #4375a3;
+}
+
+.search #confirm:hover {
+  /* font-weight: bold; */
+  background-color: #5590c7;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.search #confirm:active {
+  box-shadow: inset 0px 0px 10px -8px rgba(250, 250, 250, 0.5);
+}
+
+.search #clear {
+  border-radius: 3px;
+  margin-left: 11px;
+  width: 50px;
+  color: #ffffff;
+  background-color: #a14949;
+}
+
+.search #clear:hover {
+  /* font-weight: bold; */
+  background-color: #be5858;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.search #clear:active {
+  box-shadow: inset 0px 0px 10px -8px rgba(250, 250, 250, 0.555);
+}
+
+.tablebox {
+  position: relative;
+  top: 60px;
+  left: 50%;
+  margin-left: -500px;
+  /* width: -moz-fit-content; */
+  /* width: fit-content; */
+  width: 1000px;
+}
+
+table {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: rgb(179, 179, 179);
+  padding: 4px 8px;
+  /*  */
+  width: 1000px;
+  border-spacing: 0 4px;
+  background-color: #fafafa;
+  /* margin-bottom: 100px; */
+}
+
+table:hover {
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+tr:hover {
+  box-shadow: 0px 0px 5px 1px rgba(191, 185, 191, 0.2);
+}
+
+tr:hover td {
+  background-color: #fffef0;
+  /* padding: 5px 6px 5px 4px; */
+}
+
+th {
+  position: -webkit-sticky;
+  position: sticky;
+  box-shadow: 0px 2px 0px 0px rgba(79, 79, 79, 0.12);
+  top: 10px;
+  padding: 5px;
+  border: solid;
+  border-width: 1px;
+  background-color: rgb(174, 199, 174);
+  font-size: 14px;
+  z-index: 10;
+}
+
+td {
+  padding: 5px;
+  border: solid;
+  border-width: 1px 1px 1px 0;
+  border-color: #cfcfcf;
+  border-bottom-width: 2px;
+  /* background-color: #fafbfa; */
+  background-color: #ffffff;
+  font-size: 14px;
+}
+
+td div{
+  display: inline-block;
+  overflow: auto;
+  /* text-al */
+  /* text-overflow:ellipsis; */
+  height: 20px;
+  background-color: #f0f0f0;
+}
+
+td div:hover{
+  /* padding-top: 10px; */
+  height: 50px;
+}
+
+table .num {
+  text-align: center;
+  border-left-width: 1px;
+  width: 3%;
+}
+
+table .cn_name {
+  width: 19%;
+}
+
+table .scientific_name {
+  width: 26%;
+}
+
+table .family {
+  width: 12%;
+}
+
+table .genus {
+  width: 12%;
+  display: none;
+}
+
+table .provenance {
+  width: 33%;
+}
+
+table .details {
+  width: 7%;
+}
+
+table td a {
+  display: block;
+  text-align: center;
+  line-height: 100%;
+  text-decoration: none;
+  font-size: 15px;
+  color: #318dca;
+}
+
+table td a:hover {
+  font-weight: bold;
+  color: #c9320c;
+}
+
+table .no_result td {
+  border-width: 1px;
+  text-align: center;
+}
+
+/* 翻页 */
+.pagebox {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  font-size: 14px;
+  z-index: 10;
+  width: auto;
+  /* max-width:1000px; */
+  background-color: rgb(255, 255, 255);
+  padding: 6px 6px 6px 50px;
+}
+
+.pagebox .pageSizeSelect {
+  padding: 6px 10px;
+  font-size: 13px;
+  border-radius: 3px;
+  border-width: 0px;
+  background-color: #f1f1f1;
+  color: #000000;
+}
+
+.pagebox .pageSizeSelect:hover {
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.25);
+}
+
+.pagebox span {
+  padding: 5px 10px;
+  font-size: 13px;
+  text-decoration: none;
+  background-color: #86a795;
+  cursor: pointer;
+  margin-left: 5px;
+  color: #ffffff;
+  border-radius: 3px;
+}
+
+.pagebox span:hover {
+  background-color: #64c590;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.25);
+}
+
+.pagebox span:active {
+  box-shadow: inset 0px 0px 10px -8px rgba(250, 250, 250, 0.555);
+}
+
+.pagebox .current {
+  background-color: #c0d2e7;
+  color: #000000;
+}
+
+.pagebox .pagebox_count {
+  cursor: default;
+  color: #000000;
+  padding: 0px 5px;
+  background-color: #ffffff;
+}
+
+.cleariconfont {
+  font-family: "iconfont" !important;
+  font-size: 12px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+  margin-left: -25px;
+  float: left;
+  border: solid #4375a3;
+  border-width: 2px 0;
+  height: 30px;
+  line-height: 30px;
+  color: brown;
+}
+.searchiconfont {
+  font-family: "iconfont" !important;
+  font-size: 18px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

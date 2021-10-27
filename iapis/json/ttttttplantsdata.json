@@ -1,0 +1,1185 @@
+[
+  {
+    "pID": 1,
+    "pNameCn": "紫茎泽兰",
+    "pNameSci": "Eupatorium adenophorum Spreng.",
+    "sortCn": "菊科",
+    "invasionHistory": "中美洲、在世界热带地区广泛分布。"
+  },
+  {
+    "pID": 2,
+    "pNameCn": "薇甘菊",
+    "pNameSci": "Mikaina micrantha H. B. K.",
+    "sortCn": "菊科",
+    "invasionHistory": "中美洲；现已广泛分布于亚洲和大洋洲的热带地区。"
+  },
+  {
+    "pID": 3,
+    "pNameCn": "空心莲子草",
+    "pNameSci": "Alternanthera philoxeroides (Mart.) Griseb",
+    "sortCn": "苋科",
+    "invasionHistory": "南美洲；世界温带及亚热带地区广泛分布。"
+  },
+  {
+    "pID": 4,
+    "pNameCn": "豚草",
+    "pNameSci": "Ambrosia artemisiifolia L.",
+    "sortCn": "菊科",
+    "invasionHistory": "北美洲；在世界各地区归化。"
+  },
+  {
+    "pID": 6,
+    "pNameCn": "毒麦",
+    "pNameSci": "Lolium temulentum L.",
+    "sortCn": "禾本科",
+    "invasionHistory": "欧洲地中海地区；现广布世界各地。"
+  },
+  {
+    "pID": 7,
+    "pNameCn": "互花米草",
+    "pNameSci": "Spartina alterniflora Loisel.",
+    "sortCn": "禾本科",
+    "invasionHistory": "美国东南部海岸；在美国西部和欧洲海岸归化。"
+  },
+  {
+    "pID": 8,
+    "pNameCn": "飞机草",
+    "pNameSci": "Eupatorium odoratum L.",
+    "sortCn": "菊科",
+    "invasionHistory": "中美洲；在南美洲、亚洲、非洲热带地区广泛分布。"
+  },
+  {
+    "pID": 9,
+    "pNameCn": "凤眼莲",
+    "pNameSci": "Eichhornia crassipes（Mart.）Solms",
+    "sortCn": "雨久花科",
+    "invasionHistory": "巴西东北部；现分布于全世界温暖地区。"
+  },
+  {
+    "pID": 11,
+    "pNameCn": "马缨丹",
+    "pNameSci": "Lantana camara L.",
+    "sortCn": "马鞭草科",
+    "invasionHistory": "原产热带美洲，现已成为全球泛热带有害植物。"
+  },
+  {
+    "pID": 13,
+    "pNameCn": "大薸",
+    "pNameSci": "Pistia stratiotes L.",
+    "sortCn": "天南星科",
+    "invasionHistory": "原产巴西，现广布于热带和亚热带。"
+  },
+  {
+    "pID": 14,
+    "pNameCn": "加拿大一枝黄花",
+    "pNameSci": "Solidago Canadensis L.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产北美，在北半球温带栽培和归化。"
+  },
+  {
+    "pID": 15,
+    "pNameCn": "蒺藜草",
+    "pNameSci": "Cenchrus echinatus L.",
+    "sortCn": "禾本科",
+    "invasionHistory": "原产美洲的热带和亚热带地区。"
+  },
+  {
+    "pID": 16,
+    "pNameCn": "银胶菊",
+    "pNameSci": "Parthenium hysterophorus L.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产美国德克萨斯州及墨西哥北部，现广泛分布于全球热带地区。"
+  },
+  {
+    "pID": 17,
+    "pNameCn": "黄顶菊",
+    "pNameSci": "Flaveria bidentis (L.) Kuntze",
+    "sortCn": "菊科",
+    "invasionHistory": "原产南美，北美归化。"
+  },
+  {
+    "pID": 18,
+    "pNameCn": "土荆芥",
+    "pNameSci": "Chenopodium ambrosioides L.",
+    "sortCn": "藜科",
+    "invasionHistory": "原产中、南美洲，现广泛分布于全世界温带至热带地区。"
+  },
+  {
+    "pID": 19,
+    "pNameCn": "刺苋",
+    "pNameSci": "Amaranthus spinosus L.",
+    "sortCn": "苋科",
+    "invasionHistory": "原产热带美洲，目前中国、日本、印度、中南半岛、马来西亚、菲律宾等地皆有分布。"
+  },
+  {
+    "pID": 20,
+    "pNameCn": "落葵薯",
+    "pNameSci": "Anredera cordifolia (Tenore) Steenis",
+    "sortCn": "落葵科",
+    "invasionHistory": "南美热带和亚热带地区。"
+  },
+  {
+    "pID": 21,
+    "pNameCn": "反枝苋",
+    "pNameSci": "Amaranthusretroflexus L.",
+    "sortCn": "苋科",
+    "invasionHistory": "原产美洲，现广泛传播并归化于东半球。"
+  },
+  {
+    "pID": 23,
+    "pNameCn": "三叶鬼针草",
+    "pNameSci": "Bidens pilosa L.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产热带美洲，现广布于亚洲和美洲的热带及亚热带地区。"
+  },
+  {
+    "pID": 24,
+    "pNameCn": "小蓬草",
+    "pNameSci": "Conyza canadensis(L.) Cronquist",
+    "sortCn": "菊科",
+    "invasionHistory": "原产北美洲，现广布世界各地。"
+  },
+  {
+    "pID": 25,
+    "pNameCn": "苏门白酒草",
+    "pNameSci": "Conyza bonariensisvar. leiotheca (S.F.Blake) Cuatrec.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产南美洲，现广布在热带、亚热带。"
+  },
+  {
+    "pID": 26,
+    "pNameCn": "一年蓬",
+    "pNameSci": "Erigeron annuusPers.",
+    "sortCn": "菊科",
+    "invasionHistory": "除内蒙古、宁夏、海南外，各地均有采集记录。"
+  },
+  {
+    "pID": 27,
+    "pNameCn": "假臭草",
+    "pNameSci": "Praxelis clematidea（Grisebach.） King et Robinson",
+    "sortCn": "菊科",
+    "invasionHistory": "原产南美洲，现广布于东半球热带地区。"
+  },
+  {
+    "pID": 28,
+    "pNameCn": "刺苍耳",
+    "pNameSci": "Xanthium spinosumL.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产南美洲，现在欧洲中、南部，亚洲和北美归化。"
+  },
+  {
+    "pID": 29,
+    "pNameCn": "圆叶牵牛",
+    "pNameSci": "Ipomoea purpurea(L.) Roth",
+    "sortCn": "旋花科",
+    "invasionHistory": "原产南美洲，世界各地广泛栽培和归化。"
+  },
+  {
+    "pID": 36,
+    "pNameCn": "假高粱",
+    "pNameSci": "Sorghum halepense",
+    "sortCn": "禾本科",
+    "invasionHistory": "地中海地区。"
+  },
+  {
+    "pID": 37,
+    "pNameCn": "蓖麻",
+    "pNameSci": "Ricinus communis L.",
+    "sortCn": "大戟科",
+    "invasionHistory": "原产地在非洲东北部的肯尼亚或索马里，广布于全世界热带地区。"
+  },
+  {
+    "pID": 38,
+    "pNameCn": "飞扬草",
+    "pNameSci": null,
+    "sortCn": "大戟科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 39,
+    "pNameCn": "木薯",
+    "pNameSci": "Manihot esculenta crantz(M. utilissima Pohl)",
+    "sortCn": "大戟科",
+    "invasionHistory": "木薯原产于美洲热带，全世界热带地区广为栽培"
+  },
+  {
+    "pID": 40,
+    "pNameCn": "通奶草",
+    "pNameSci": "Euphorbia hypericifolia",
+    "sortCn": "大戟科",
+    "invasionHistory": "广布于世界热带和亚热带。"
+  },
+  {
+    "pID": 42,
+    "pNameCn": "苜蓿",
+    "pNameSci": "Medicago sativa",
+    "sortCn": "豆科",
+    "invasionHistory": "分布地中海区域、西南亚、中亚和非洲"
+  },
+  {
+    "pID": 43,
+    "pNameCn": "田菁",
+    "pNameSci": "Sesbania cannabina (Retz.) Poir.",
+    "sortCn": "豆科",
+    "invasionHistory": "伊拉克、印度、中南半岛、马来西亚、巴布亚新几内亚、新喀里多尼亚、澳大利亚、加纳、毛里塔尼亚也有分布。"
+  },
+  {
+    "pID": 44,
+    "pNameCn": "无瓣海桑",
+    "pNameSci": "Sonneratia apetala",
+    "sortCn": "海桑科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 45,
+    "pNameCn": "巴西含羞草",
+    "pNameSci": "Mimosa invisa Mart.ex Colla",
+    "sortCn": "含羞草科",
+    "invasionHistory": "分布在巴西以及中国大陆的广东等地，多生长于逸生、旷野及荒地，目前已由人工引种栽培。"
+  },
+  {
+    "pID": 47,
+    "pNameCn": "金合欢",
+    "pNameSci": "Acacia farnesiana (Linn.) Willd",
+    "sortCn": "豆科",
+    "invasionHistory": "金合欢原产澳大利亚"
+  },
+  {
+    "pID": 48,
+    "pNameCn": "簕仔树",
+    "pNameSci": "Mimosa sepiaria Benth",
+    "sortCn": "豆科",
+    "invasionHistory": "热带美洲"
+  },
+  {
+    "pID": 49,
+    "pNameCn": "银合欢",
+    "pNameSci": "Leucaena glauca (L.) Benth.",
+    "sortCn": "含羞草科",
+    "invasionHistory": "中美洲"
+  },
+  {
+    "pID": 50,
+    "pNameCn": "巴拉草",
+    "pNameSci": "Brachiaria mutica (Forsk) Stapf.",
+    "sortCn": "禾本科",
+    "invasionHistory": "西非"
+  },
+  {
+    "pID": 51,
+    "pNameCn": "稗",
+    "pNameSci": "Echinochloa crusgalli",
+    "sortCn": "禾本科",
+    "invasionHistory": "国内分布：分布几遍全国，以及全世界温暖地区；广泛地分布在中国的所有的省市和自治区。国外分布：非洲；琉球群岛；美洲大陆；欧亚大陆广布；热带；亚热带；温带。"
+  },
+  {
+    "pID": 52,
+    "pNameCn": "大黍",
+    "pNameSci": "Panicum maximum Jacq.",
+    "sortCn": "禾本科",
+    "invasionHistory": "热带东非"
+  },
+  {
+    "pID": 53,
+    "pNameCn": "地毯草",
+    "pNameSci": "Axonopus compressus (Sw. ) Beauv.",
+    "sortCn": "禾本科",
+    "invasionHistory": "期由南美洲"
+  },
+  {
+    "pID": 54,
+    "pNameCn": "红毛草",
+    "pNameSci": "Rhynchelytrum repens (wild.) C.E. Hubb.",
+    "sortCn": "禾本科",
+    "invasionHistory": "南非；作为一种观赏植物和牧草被广泛引种，现在全世界热带地区有分布。"
+  },
+  {
+    "pID": 56,
+    "pNameCn": "两耳草",
+    "pNameSci": "Paspalum conjugatum",
+    "sortCn": "禾本科",
+    "invasionHistory": "原产于热带美洲；现广布于两半球热带"
+  },
+  {
+    "pID": 57,
+    "pNameCn": "毛花雀稗",
+    "pNameSci": null,
+    "sortCn": "禾本科",
+    "invasionHistory": "毛花雀稗原产于巴西东南部、阿根廷北部、乌拉圭及其附近和亚热带地区。"
+  },
+  {
+    "pID": 58,
+    "pNameCn": "牛筋草",
+    "pNameSci": "Eleusine indica (L.) Gaertn.",
+    "sortCn": "禾本科",
+    "invasionHistory": "中国：分布于中国南北各省区，多生于荒芜之地及道路旁。中国南北各省区遍地都有；多生于荒芜之地及道路旁，可选择无污染、无公害处生长者采集，干品鲜品都可用"
+  },
+  {
+    "pID": 59,
+    "pNameCn": "铺地黍",
+    "pNameSci": "Panicum repens L.",
+    "sortCn": "禾本科",
+    "invasionHistory": "巴西；现广分布于热带与亚热带"
+  },
+  {
+    "pID": 61,
+    "pNameCn": "象草",
+    "pNameSci": "Pennisetum purpureum Schum",
+    "sortCn": "禾本科",
+    "invasionHistory": "原产非洲"
+  },
+  {
+    "pID": 62,
+    "pNameCn": "莠狗尾草",
+    "pNameSci": "Setaria geniculata（Lam．）Beauv．",
+    "sortCn": "禾本科",
+    "invasionHistory": "亚洲、欧洲"
+  },
+  {
+    "pID": 63,
+    "pNameCn": "草胡椒",
+    "pNameSci": "Peperomia pellucida",
+    "sortCn": "胡椒科",
+    "invasionHistory": "热带美洲，现广泛分布于热带地区"
+  },
+  {
+    "pID": 64,
+    "pNameCn": "赛葵",
+    "pNameSci": "Malvastrum coromandelianum (L.)",
+    "sortCn": null,
+    "invasionHistory": "美洲"
+  },
+  {
+    "pID": 65,
+    "pNameCn": "白花鬼针草",
+    "pNameSci": "Bidens alba (L.) DC.",
+    "sortCn": "菊科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 66,
+    "pNameCn": "大狼把草",
+    "pNameSci": "Bidens frondosa",
+    "sortCn": "菊科",
+    "invasionHistory": "北美洲"
+  },
+  {
+    "pID": 68,
+    "pNameCn": "金腰箭",
+    "pNameSci": "Synedrella nodiflora (L.) Gaertn.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产美洲，现广布于世界热带和亚热带地区。"
+  },
+  {
+    "pID": 69,
+    "pNameCn": "菊芹",
+    "pNameSci": "Erechitites valerianaefolia",
+    "sortCn": "菊科",
+    "invasionHistory": "南美洲"
+  },
+  {
+    "pID": 70,
+    "pNameCn": "苦苣菜",
+    "pNameSci": null,
+    "sortCn": null,
+    "invasionHistory": null
+  },
+  {
+    "pID": 72,
+    "pNameCn": "牛膝菊",
+    "pNameSci": "Galinsoga parviflora Cav",
+    "sortCn": "菊科",
+    "invasionHistory": "南美洲"
+  },
+  {
+    "pID": 73,
+    "pNameCn": "三裂叶蟛蜞菊",
+    "pNameSci": "Wedelia trilobata (L.) Hitchc.",
+    "sortCn": "菊科",
+    "invasionHistory": "南美洲"
+  },
+  {
+    "pID": 74,
+    "pNameCn": "胜红蓟",
+    "pNameSci": "Ageratum conyzoides L",
+    "sortCn": "菊科",
+    "invasionHistory": "中南美洲"
+  },
+  {
+    "pID": 75,
+    "pNameCn": "香丝草",
+    "pNameSci": "Conyza bonariensis (L.) Cronq.",
+    "sortCn": "菊科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 76,
+    "pNameCn": "熊耳草",
+    "pNameSci": "Ageratum houstonianum Miller",
+    "sortCn": "菊科",
+    "invasionHistory": "原产墨西哥及毗邻地区"
+  },
+  {
+    "pID": 77,
+    "pNameCn": "续断菊",
+    "pNameSci": null,
+    "sortCn": "菊科",
+    "invasionHistory": "欧洲"
+  },
+  {
+    "pID": 78,
+    "pNameCn": "野茼蒿",
+    "pNameSci": "Crassocephalum crepidioides(Benth.) S. Moore",
+    "sortCn": null,
+    "invasionHistory": "热带非洲"
+  },
+  {
+    "pID": 80,
+    "pNameCn": "羽芒菊",
+    "pNameSci": "Tridax procumbens L.",
+    "sortCn": "菊科",
+    "invasionHistory": "美洲热带地区"
+  },
+  {
+    "pID": 81,
+    "pNameCn": "肿柄菊",
+    "pNameSci": "Tithonia diversifolia A. Gray",
+    "sortCn": "菊科",
+    "invasionHistory": "广泛分布于热带和亚热带"
+  },
+  {
+    "pID": 82,
+    "pNameCn": "假马鞭草",
+    "pNameSci": "Stachytarpheta jamaicensis (L.) Vahl",
+    "sortCn": "马鞭草科",
+    "invasionHistory": "产中国福建、江西、湖南、广东、广西、四川。"
+  },
+  {
+    "pID": 83,
+    "pNameCn": "土人参",
+    "pNameSci": "Talinum paniculatum (Jacq.) Gaertn.",
+    "sortCn": "马齿苋科",
+    "invasionHistory": "原产于热带美洲，分布于西非、南美热带和东南亚等地。"
+  },
+  {
+    "pID": 84,
+    "pNameCn": "阔叶丰花草",
+    "pNameSci": "Spermacoce latifolia Aubl. (Borreria latifolia (Aubl.) K. Schum.)",
+    "sortCn": "茜草科",
+    "invasionHistory": "南美洲热带地区"
+  },
+  {
+    "pID": 85,
+    "pNameCn": "灯笼草",
+    "pNameSci": "Physalis alkekengi",
+    "sortCn": "茄科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 86,
+    "pNameCn": "颠茄",
+    "pNameSci": "Atropa belladonna L.",
+    "sortCn": "茄科",
+    "invasionHistory": "中国、西欧、北非、西亚、北美等地。"
+  },
+  {
+    "pID": 87,
+    "pNameCn": "假酸浆",
+    "pNameSci": "Nicandra physaloides",
+    "sortCn": "茄科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 88,
+    "pNameCn": "假烟叶树",
+    "pNameSci": "Solanum erianthum D.Don",
+    "sortCn": "茄科",
+    "invasionHistory": "产中国西南、华南及福建、台湾等，广布于亚洲、大洋州、热带美洲。产四川、贵州、云南、广西、广东、福建和台湾诸省，常见于荒山荒地灌丛中，海拔300-2100米。广泛分布于热带亚洲，大洋洲，南美洲。"
+  },
+  {
+    "pID": 89,
+    "pNameCn": "喀西茄",
+    "pNameSci": "Solanum aculeatissimum Jacq. (S. khasianum Clarke)",
+    "sortCn": "茄科",
+    "invasionHistory": "云南除东北及西北部外均产，广西偶有发现。喜生于沟边，路边灌丛，荒地，草坡或疏林中，海拔1300-2300米。印度喀西山区也有分布。"
+  },
+  {
+    "pID": 90,
+    "pNameCn": "曼陀罗",
+    "pNameSci": "Datura stramonium Linn",
+    "sortCn": "茄科",
+    "invasionHistory": "曼陀罗花原产于墨西哥。"
+  },
+  {
+    "pID": 91,
+    "pNameCn": "水茄",
+    "pNameSci": "Solanum torvum Swartz",
+    "sortCn": "茄科",
+    "invasionHistory": "原产地：美洲加勒比地区；现热带地区广布。"
+  },
+  {
+    "pID": 92,
+    "pNameCn": "野胡萝卜",
+    "pNameSci": "Daucus carota L.",
+    "sortCn": "伞形科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 94,
+    "pNameCn": "美洲商陆",
+    "pNameSci": "Phytolacca Americana L.",
+    "sortCn": "商陆科",
+    "invasionHistory": "原产北美；现世界各地引种和归化，我国大部分地区都有栽培"
+  },
+  {
+    "pID": 95,
+    "pNameCn": "含羞草决明",
+    "pNameSci": "Cassia mimosoides L.",
+    "sortCn": "豆科",
+    "invasionHistory": "原产地：美洲热带。"
+  },
+  {
+    "pID": 97,
+    "pNameCn": "龙珠果",
+    "pNameSci": "Passiflora foetida Linn.",
+    "sortCn": "西番莲科",
+    "invasionHistory": "原产地：西印度群岛；现广泛分布热带地区。"
+  },
+  {
+    "pID": 98,
+    "pNameCn": "仙人掌",
+    "pNameSci": "Opuntia stricta (Haw.) Haw. var. dillenii (Ker-Gawl.) Benson",
+    "sortCn": "仙人掌科",
+    "invasionHistory": "南美洲、非洲、中国南方及东南亚"
+  },
+  {
+    "pID": 99,
+    "pNameCn": "凹头苋",
+    "pNameSci": "Amaranthus lividus L.",
+    "sortCn": "苋科",
+    "invasionHistory": "除内蒙古、宁夏、青海、西藏外，全国广泛分布。欧洲、非洲等"
+  },
+  {
+    "pID": 100,
+    "pNameCn": "刺花莲子草",
+    "pNameSci": "Alternanthera pungens",
+    "sortCn": "苋科",
+    "invasionHistory": "美洲热带，南美洲以及中国福建等地"
+  },
+  {
+    "pID": 101,
+    "pNameCn": "青葙",
+    "pNameSci": "Celosia argentea L.",
+    "sortCn": "苋科",
+    "invasionHistory": "非洲热带、马来西亚、俄罗斯、印度、日本、泰国、缅甸、越南"
+  },
+  {
+    "pID": 102,
+    "pNameCn": "尾穗苋",
+    "pNameSci": "Amaranthus caudatus.",
+    "sortCn": "苋科",
+    "invasionHistory": "泛热带地区"
+  },
+  {
+    "pID": 104,
+    "pNameCn": "银花苋",
+    "pNameSci": "Gomphrena celosioides Mart.",
+    "sortCn": "苋科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 105,
+    "pNameCn": "皱果苋",
+    "pNameSci": "Amaranthus viridis L.",
+    "sortCn": "苋科",
+    "invasionHistory": "热带美洲"
+  },
+  {
+    "pID": 106,
+    "pNameCn": "野甘草",
+    "pNameSci": "Scoparia dulcis L.",
+    "sortCn": "玄参科",
+    "invasionHistory": "美洲热带"
+  },
+  {
+    "pID": 107,
+    "pNameCn": "裂叶牵牛",
+    "pNameSci": "Pharbitis nil (L.) Choisy.",
+    "sortCn": "旋花科",
+    "invasionHistory": "原产美洲"
+  },
+  {
+    "pID": 109,
+    "pNameCn": "三裂叶薯",
+    "pNameSci": "Ipomoea triloba",
+    "sortCn": "旋花科",
+    "invasionHistory": "原产热带美洲，现已成为热带地区的杂草。"
+  },
+  {
+    "pID": 110,
+    "pNameCn": "五爪金龙",
+    "pNameSci": "Ipomoea cairica",
+    "sortCn": "旋花科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 112,
+    "pNameCn": "小叶冷水花",
+    "pNameSci": "Pilea microphylla",
+    "sortCn": "荨麻科",
+    "invasionHistory": "原产地：南美洲热带地区；现广泛分布于全球热带地区。"
+  },
+  {
+    "pID": 113,
+    "pNameCn": "紫茉莉",
+    "pNameSci": "Mirabilis jalapa L.",
+    "sortCn": null,
+    "invasionHistory": "原产热带美洲"
+  },
+  {
+    "pID": 114,
+    "pNameCn": "红花酢浆草",
+    "pNameSci": "Oxalis corymbosa DC.",
+    "sortCn": null,
+    "invasionHistory": "原产南美热带地区，"
+  },
+  {
+    "pID": 115,
+    "pNameCn": "水盾草",
+    "pNameSci": "Cabomba caroliniana Gray",
+    "sortCn": "水盾草科",
+    "invasionHistory": "南美洲"
+  },
+  {
+    "pID": 118,
+    "pNameCn": "细枝木麻黄",
+    "pNameSci": "Casuarina cunninghamiana Miq.",
+    "sortCn": "木麻黄科",
+    "invasionHistory": "广西、广东、福建、台湾有栽植。原产澳大利亚，世界热带、亚热带地区常见栽培。"
+  },
+  {
+    "pID": 131,
+    "pNameCn": "无瓣繁缕",
+    "pNameSci": "Stellaria apetala Ucria ex Roem.",
+    "sortCn": "石竹科",
+    "invasionHistory": "现仅记载于江苏、新疆。为常见杂草。欧洲、亚洲和北美洲均有分布。"
+  },
+  {
+    "pID": 140,
+    "pNameCn": "绿穗苋",
+    "pNameSci": "Amaranthus hybridus L.",
+    "sortCn": "苋科",
+    "invasionHistory": "分布于中国陕西南部、河南、安徽、江苏、浙江、江西、湖南、湖北、四川、贵州。欧洲、北美洲、南美洲也有分布。生在田野、旷地或山坡。"
+  },
+  {
+    "pID": 145,
+    "pNameCn": "单刺仙人掌",
+    "pNameSci": "Opuntia monacantha (Willd.) Haw.",
+    "sortCn": "仙人掌科",
+    "invasionHistory": "原产巴西、巴拉圭、乌拉圭及阿根廷，世界各地广泛栽培，在热带地区及岛屿常逸生；我国各省区有引种栽培，在云南南部及西部、广西、福建南部和台湾沿海地区归化，生于海拔3-2000米海边或山坡开旷地。"
+  },
+  {
+    "pID": 151,
+    "pNameCn": "蓟罂粟",
+    "pNameSci": "Argemone mexicana L.",
+    "sortCn": "罂粟科",
+    "invasionHistory": "分布于台湾、福建、广东沿海及云南有逸生，很多省区有栽培。原产中美洲和热带美洲，在大西洋、印度洋、南太平洋沿岸经常逸生，在次大陆深人到西喜马拉雅山区及尼泊尔。"
+  },
+  {
+    "pID": 153,
+    "pNameCn": "皱子白花菜",
+    "pNameSci": "Cleome rutidosperma DC.",
+    "sortCn": "山柑科",
+    "invasionHistory": "产云南西部（潞西）、台湾（台北、屏东），生于路旁草地、荒地、苗圃、农场，常为田间杂草。原产热带西非洲，自几内亚至刚果与安哥拉。"
+  },
+  {
+    "pID": 155,
+    "pNameCn": "臭荠",
+    "pNameSci": "Coronopus didymus (L.) J. E. Smith",
+    "sortCn": "十字花科",
+    "invasionHistory": "产于山东、安徽、江苏、浙江、福建、台湾、湖北、江西、广东、四川、云南。为生在路旁或荒地的杂草。欧洲、北美、亚洲也有分布。"
+  },
+  {
+    "pID": 156,
+    "pNameCn": "北美独行菜",
+    "pNameSci": "Lepidium virginicum Linnaeus",
+    "sortCn": "十字花科",
+    "invasionHistory": "产山东、河南、安徽、江苏、浙江、福建、湖北、江西、广西。生在田边或荒地，为田间杂草。原产美洲，欧洲有分布。"
+  },
+  {
+    "pID": 157,
+    "pNameCn": "豆瓣菜",
+    "pNameSci": "Nasturtium officinale R. Br.",
+    "sortCn": "十字花科",
+    "invasionHistory": "产黑龙江、河北、山西、山东、河南、安徽、江苏、广东、广西、陕西、四川、贵州、云南、西藏。栽培或野生，喜生水中，水沟边、山涧河边、沼泽地或水田中，海拔850-3700米处均可生长。欧洲、亚洲及北美均有分布。"
+  },
+  {
+    "pID": 158,
+    "pNameCn": "落地生根",
+    "pNameSci": "Bryophyllum pinnatum (L. f.) Oken",
+    "sortCn": "景天科",
+    "invasionHistory": "产云南、广西、广东、福建、台湾。原产非洲。我国各地栽培，有逸为野生的。"
+  },
+  {
+    "pID": 167,
+    "pNameCn": "木豆",
+    "pNameSci": "Cajanus cajan (Linn.) Millsp.",
+    "sortCn": "豆科",
+    "invasionHistory": "产云南、四川、江西、湖南、广西、广东、海南、浙江、福建、台湾、江苏。原产地或为印度，现世界上热带和亚热带地区普遍有栽培。"
+  },
+  {
+    "pID": 169,
+    "pNameCn": "光叶决明",
+    "pNameSci": "Cassia floribunda Cav.",
+    "sortCn": "豆科",
+    "invasionHistory": "栽培于广东、广西等省区。原产美洲热带地区，现广布于全世界热带地区。"
+  },
+  {
+    "pID": 172,
+    "pNameCn": "翅荚决明",
+    "pNameSci": "Senna alata (L.) Roxb.",
+    "sortCn": "豆科",
+    "invasionHistory": "分布于广东和云南南部地区。生于疏林或较干旱的山坡上。原产美洲热带地区，现广布于全世界热带地区。"
+  },
+  {
+    "pID": 186,
+    "pNameCn": "南美山蚂蝗",
+    "pNameSci": "Desmodium tortuosum (Sw.) DC.",
+    "sortCn": "豆科",
+    "invasionHistory": "原产南美和西印度，在我国广州逸生于荒地、平原。印度尼西亚爪哇、巴布亚新几内亚东部和南部也有引种。"
+  },
+  {
+    "pID": 188,
+    "pNameCn": "野青树",
+    "pNameSci": "Indigofera suffruticosa Mill.",
+    "sortCn": "豆科",
+    "invasionHistory": "江苏、浙江、福建、台湾、广东、广西、云南有栽培。生于低海拔山地路旁、山谷疏林、空旷地、田野沟边及海滩沙地。原产热带美洲，现广布于世界热带地区。"
+  },
+  {
+    "pID": 190,
+    "pNameCn": "紫花大翼豆",
+    "pNameSci": "Macroptilium atropurpureum (DC.) Urban",
+    "sortCn": "豆科",
+    "invasionHistory": "我国广东及广东沿海岛屿有栽培。原产热带美洲，现世界上热带、亚热带许多地区均有栽培或已在当地归化。"
+  },
+  {
+    "pID": 198,
+    "pNameCn": "刺槐",
+    "pNameSci": "Robinia pseudoacacia L.",
+    "sortCn": "豆科",
+    "invasionHistory": "原生于北美洲，现被广泛引种到亚洲、欧洲等地。"
+  },
+  {
+    "pID": 200,
+    "pNameCn": "白灰毛豆",
+    "pNameSci": "Tephrosia candida DC.",
+    "sortCn": "豆科",
+    "invasionHistory": "原产印度东部和马来半岛。我国福建、广东、广西、云南有种植，并逸生于草地、旷野、山坡。"
+  },
+  {
+    "pID": 201,
+    "pNameCn": "绛车轴草",
+    "pNameSci": "Trifolium incarnatum L.",
+    "sortCn": "豆科",
+    "invasionHistory": "原产欧洲地中海沿岸，我国引种栽培。"
+  },
+  {
+    "pID": 202,
+    "pNameCn": "白车轴草",
+    "pNameSci": "Trifolium repens L.",
+    "sortCn": "豆科",
+    "invasionHistory": "原产欧洲和北非，世界各地均有栽培。我国常见于种植，并在湿润草地、河岸、路边呈半自生状态。"
+  },
+  {
+    "pID": 208,
+    "pNameCn": "野老鹳草",
+    "pNameSci": "Geranium carolinianum L.",
+    "sortCn": "牻牛儿苗科",
+    "invasionHistory": "分布于山东、安徽、江苏、浙江、江西、湖南、湖北、四川和云南。生于平原和低山荒坡杂草丛中。原产美洲，我国为逸生。"
+  },
+  {
+    "pID": 211,
+    "pNameCn": "猩猩草",
+    "pNameSci": "Euphorbia cyathophora Murr.",
+    "sortCn": "大戟科",
+    "invasionHistory": "原产中南美洲，归化于旧大陆。"
+  },
+  {
+    "pID": 218,
+    "pNameCn": "麻疯树",
+    "pNameSci": "Jatropha curcas L.",
+    "sortCn": "大戟科",
+    "invasionHistory": "原产美洲热带；现广布于全球热带地区。我国福建、台湾、广东、海南、广西、贵州、四川、云南等省区有栽培或少量逸为野生。"
+  },
+  {
+    "pID": 228,
+    "pNameCn": "泡果苘",
+    "pNameSci": "Herissantia crispa (Linnaeus) Brizicky",
+    "sortCn": "锦葵科",
+    "invasionHistory": "产广东海南岛的陵水、崖县、昌江、东方等县，常见于海岸砂地、湿生草地或疏林中。原产美洲热带和亚热带地区。现广布于越南、印度、澳大利亚等国。"
+  },
+  {
+    "pID": 230,
+    "pNameCn": "野西瓜苗",
+    "pNameSci": "Hibiscus trionum Linn.",
+    "sortCn": "锦葵科",
+    "invasionHistory": "生于平原、山野、丘陵或田梗。分布于全国各地。"
+  },
+  {
+    "pID": 233,
+    "pNameCn": "蛇婆子",
+    "pNameSci": "Waltheria indica L.",
+    "sortCn": "梧桐科",
+    "invasionHistory": "产台湾、福建、广东、广西、云南等省区的南部。喜生于山野间向阳草坡上，一般分布在北回归线以南的海边和丘陵地，而且广泛分布在全世界的热带地区。"
+  },
+  {
+    "pID": 234,
+    "pNameCn": "西番莲",
+    "pNameSci": "Passiflora caerulea L.",
+    "sortCn": "西番莲科",
+    "invasionHistory": "栽培于广西、江西、四川、云南等地，有时逸生。原产南美洲。热带、亚热带地区常见栽培。"
+  },
+  {
+    "pID": 239,
+    "pNameCn": "刺果瓜",
+    "pNameSci": "Sicyos angulatus L.",
+    "sortCn": "葫芦科",
+    "invasionHistory": "产广东、广西、云南三省区的中部和南部。生于疏林中或山谷溪旁。印度、越南、柬埔寨、老挝、泰国等地也有分布。"
+  },
+  {
+    "pID": 240,
+    "pNameCn": "香膏萼距花",
+    "pNameSci": "Cuphea alsamona Cham. et Schlechtend.",
+    "sortCn": "千屈菜科",
+    "invasionHistory": "原产巴西、墨西哥等地。巴西、墨西哥、中国分布。"
+  },
+  {
+    "pID": 242,
+    "pNameCn": "桉树",
+    "pNameSci": "Eucalyptus robusta Smith",
+    "sortCn": "桃金娘科",
+    "invasionHistory": "桉树原产地绝大多数生长在澳洲大陆，少部分生长于邻近的新几内亚岛、印度尼西亚，以及菲律宾群岛。主要分布中心在大洋洲，在中国的福建、广西、广东、云南和四川等地有一定数量的分布。"
+  },
+  {
+    "pID": 244,
+    "pNameCn": "番石榴",
+    "pNameSci": "Psidium guajava Linn.",
+    "sortCn": "桃金娘科",
+    "invasionHistory": "原产南美洲。华南各地栽培，常见有逸为野生种，北达四川西南部的安宁河谷，生于荒地或低丘陵上。"
+  },
+  {
+    "pID": 249,
+    "pNameCn": "海边月见草",
+    "pNameSci": "Oenothera drummondii Hook.",
+    "sortCn": "柳叶菜科",
+    "invasionHistory": "原产美国大西洋海岸与墨西哥湾海岸，秘鲁、智利、澳大利亚、英国、西班牙、以色列、伊拉克、埃及、南非等国有栽培与野化。我国福建、广东等有栽培，并在沿海海滨野化。"
+  },
+  {
+    "pID": 251,
+    "pNameCn": "裂叶月见草",
+    "pNameSci": "Oenothera laciniata Hill",
+    "sortCn": "柳叶菜科",
+    "invasionHistory": "原产美国东部至中部，后引自欧洲、东亚、澳大利亚、南非栽培，并迅速逸出野化。我国台湾北部逸出野化，海拔50-1300米，生海滨沙滩或低海拔开旷荒地、田边处。"
+  },
+  {
+    "pID": 253,
+    "pNameCn": "细叶芹",
+    "pNameSci": "Chaerophyllum villosum Wall. ex DC.",
+    "sortCn": "伞形科",
+    "invasionHistory": "产云南（大理、维西）、四川（雷坡，洪溪）、西藏。生长在山涧林下及路旁草地；海拔2100-2800米。分布于尼泊尔和印度。"
+  },
+  {
+    "pID": 254,
+    "pNameCn": "刺芹",
+    "pNameSci": "Eryngium foetidum L.",
+    "sortCn": "伞形科",
+    "invasionHistory": "产于广东、广西、贵州、云南等省区。通常生长在海拔100-1540米的丘陵、山地林下、路旁、沟边等湿润处。南美东部、中美、安的列斯群岛以至亚洲、非洲的热带地区也有分布。"
+  },
+  {
+    "pID": 257,
+    "pNameCn": "长春花",
+    "pNameSci": "Catharanthus roseus (L.) G. Don",
+    "sortCn": "夹竹桃科",
+    "invasionHistory": "我国栽培于西南、中南及华东等省区。原产非洲东部，现栽培于各热带和亚热带地区。"
+  },
+  {
+    "pID": 259,
+    "pNameCn": "马利筋",
+    "pNameSci": "Asclepias curassavica L.",
+    "sortCn": "萝藦科",
+    "invasionHistory": "广东、广西、云南、贵州、四川、湖南、江西、福建、台湾等省区均有栽培，也有逸为野生和驯化。原产拉丁美洲的西印度群岛。现广植于世界各热带及亚热带地区。"
+  },
+  {
+    "pID": 265,
+    "pNameCn": "墨苜蓿",
+    "pNameSci": "Richardia scabra L.",
+    "sortCn": "茜草科",
+    "invasionHistory": "原产热带美洲，为该地耕地和旷野杂草。约在80年代传入我国南部，见于香港、广东博罗县罗浮山和海南乐东及西沙群岛等地。"
+  },
+  {
+    "pID": 266,
+    "pNameCn": "月光花",
+    "pNameSci": "Calonyction aculeatum (L.) House",
+    "sortCn": "旋花科",
+    "invasionHistory": "产陕西、江苏、浙江、江西、广东、广西、四川、云南，通常栽培，也有野生的。原产地可能为热带美洲，现广布于全热带。"
+  },
+  {
+    "pID": 268,
+    "pNameCn": "日本菟丝子",
+    "pNameSci": "Cuscuta japonica Choisy",
+    "sortCn": "旋花科",
+    "invasionHistory": "分布于我国南北各省区。寄生于草本或灌木上。越南，朝鲜，日本也有。"
+  },
+  {
+    "pID": 272,
+    "pNameCn": "金钟藤",
+    "pNameSci": "Merremia boisiana (Gagn.) v. Ooststr.",
+    "sortCn": "旋花科",
+    "invasionHistory": "产广东海南、广西西南、云南东南部，海拔120-680米的疏林润湿处或次生杂木林。分布越南，老挝及印度尼西亚（苏门答腊东海岸）。"
+  },
+  {
+    "pID": 275,
+    "pNameCn": "变色牵牛",
+    "pNameSci": "Ipomoea indica (Burm.) Merr.",
+    "sortCn": "旋花科",
+    "invasionHistory": "产我国台湾、广东东沙群岛及其他沿海岛屿，广州亦有栽培。原产南美洲，泛热带分布。"
+  },
+  {
+    "pID": 278,
+    "pNameCn": "聚合草",
+    "pNameSci": "Symphytum officinale L.",
+    "sortCn": "紫草科",
+    "invasionHistory": "原产苏联欧洲部分及高加索，生山林地带，为典型的中生植物。我国1963年引进，现在广泛栽培。"
+  },
+  {
+    "pID": 281,
+    "pNameCn": "假连翘",
+    "pNameSci": "Duranta repens L.",
+    "sortCn": "马鞭草科",
+    "invasionHistory": "原产热带美洲。我国南部常见栽培，常逸为野生。"
+  },
+  {
+    "pID": 282,
+    "pNameCn": "蔓马缨丹",
+    "pNameSci": "Lantana montevidensis Briq.",
+    "sortCn": "马鞭草科",
+    "invasionHistory": "原产于南美洲热带地区。全世界热带地区均有栽培或逸为野生。"
+  },
+  {
+    "pID": 284,
+    "pNameCn": "短柄吊球草",
+    "pNameSci": "Hyptis brevipes Poit.",
+    "sortCn": "唇形科",
+    "invasionHistory": "产台湾及广东海南；生于低海拔开旷荒地。原产墨西哥，现成为全热带杂草。"
+  },
+  {
+    "pID": 286,
+    "pNameCn": "山香",
+    "pNameSci": "Hyptis suaveolens (L.) Poit.",
+    "sortCn": "唇形科",
+    "invasionHistory": "产广西，广东，福建及台湾；为一杂草，生于开旷荒地上。原产热带美洲，现广布于全热带。"
+  },
+  {
+    "pID": 298,
+    "pNameCn": "独脚金",
+    "pNameSci": "Striga asiatica (L.) O. Kuntze",
+    "sortCn": "玄参科",
+    "invasionHistory": "分布于我国云南、贵州、广西、广东、湖南、江西、福建、台湾。亚洲热带和非洲热带广布。"
+  },
+  {
+    "pID": 300,
+    "pNameCn": "直立婆婆纳",
+    "pNameSci": "Veronica arvensis L.",
+    "sortCn": "玄参科",
+    "invasionHistory": "华东和华中常见，新疆也可能有。北温带广布。原产于欧洲，其他地方归化。生于路边及荒野草地，海拔2000米以下。"
+  },
+  {
+    "pID": 302,
+    "pNameCn": "阿拉伯婆婆纳",
+    "pNameSci": "Veronica persica Poir.",
+    "sortCn": "玄参科",
+    "invasionHistory": "分布于华东、华中及贵州、云南、西藏东部及新疆（伊宁），为归化的路边及荒野杂草，原产于亚洲西部及欧洲。"
+  },
+  {
+    "pID": 303,
+    "pNameCn": "猫爪藤",
+    "pNameSci": "Macfadyena unguis-cati (Linn.) A. Gentry",
+    "sortCn": "紫葳科",
+    "invasionHistory": "原产西印度群岛及墨西哥、巴西、阿根廷。我国广东、福建均有栽培，供观赏，据介绍，该种在福建逸出野生。"
+  },
+  {
+    "pID": 304,
+    "pNameCn": "鸭嘴花",
+    "pNameSci": "Adhatoda vasica Nees",
+    "sortCn": "爵床科",
+    "invasionHistory": "产广东、广西、海南（海口人民公园和檐州）、澳门、香港、云南等地栽培或逸为野生。上海栽培。分布于亚洲东南部。原产地不明，最早在印度发现。"
+  },
+  {
+    "pID": 309,
+    "pNameCn": "大花老鸦嘴",
+    "pNameSci": "Thunbergia grandiflora (Rottl. ex Willd.) Roxb.",
+    "sortCn": "爵床科",
+    "invasionHistory": "产广西、广东、海南、福建鼓浪屿。生于山地灌丛。印度及中南半岛也有分布。世界热带地区植物园栽培。"
+  },
+  {
+    "pID": 310,
+    "pNameCn": "北美车前",
+    "pNameSci": "Plantago virginica L.",
+    "sortCn": "车前科",
+    "invasionHistory": "产江苏（南京）、安徽（芜湖、马鞍山、合肥）、浙江（杭州）、江西（吉安、庐山、南昌）、福建（福州、南平）、台湾（台北、桃园）、四川（江津）。生于低海拔草地、路边、湖畔。原产北美洲，在中美洲、欧洲、日本及中国归化。模式标本采自美国弗吉尼亚。　　北美车前为外来杂草，1951年在南昌市莲塘区出现。"
+  },
+  {
+    "pID": 311,
+    "pNameCn": "刺苞果",
+    "pNameSci": "Acanthospermum australe (L.) Kuntze",
+    "sortCn": "菊科",
+    "invasionHistory": "原产南美洲，在我国云南分布甚广（自潞西、景东、勐海、普洱、元江至漾濞、普棚），生于平坡及河边沟旁，海拔350-1900米。"
+  },
+  {
+    "pID": 316,
+    "pNameCn": "矢车菊",
+    "pNameSci": "Centaurea cyanus L.",
+    "sortCn": "菊科",
+    "invasionHistory": "我国新疆、青海、甘肃、陕西、河北、山东、江苏、湖北、湖北、广东及西藏等各地公园、花园及校园普遍栽培，供观赏。新疆、青海可能有归化逸生。此种即是一种观尝植物，同时也是一种良好的蜜源植物。边花可以利尿，全草浸出液可以明目。瘦果含油率28%。欧洲、苏联（高加索及中亚、西伯利亚及远东地区）、北美等。模式标本采自欧洲。"
+  },
+  {
+    "pID": 321,
+    "pNameCn": "大波斯菊",
+    "pNameSci": "Cosmos bipinnata Cav.",
+    "sortCn": "菊科",
+    "invasionHistory": "此著名的观赏植物原产美洲墨西哥，在我国栽培甚广，在路旁、田埂、溪岸也常自生。云南、四川西部有大面积归化，海拔可达2700米。此外，在我国栽培的还有黄秋英C.sulphureusCav.,亦称硫磺菊（广州常见经济植物），它的特点是：舌状花金黄色或橘黄色；叶2-3次羽状深裂，裂片较宽，披针形至椭圆形；瘦果有粗毛，连同喙长达18-25毫米，喙纤弱，花期7-8月。原产墨西哥至巴西。在云南西南、南部常见归化，海拔500-1500米。"
+  },
+  {
+    "pID": 329,
+    "pNameCn": "菊芋",
+    "pNameSci": "Helianthus tuberosus L.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产北美，在我国各地广泛栽培，块茎俗称“洋薑”。"
+  },
+  {
+    "pID": 330,
+    "pNameCn": "假地胆草",
+    "pNameSci": "Pseudelephantopus spicatus (Juss. ex Aublet) Gleason",
+    "sortCn": "菊科",
+    "invasionHistory": "原产美洲热带及非洲，在我国台湾和广东有归化。也分布于马来西亚、印度尼西亚和菲律宾。生长于草地。"
+  },
+  {
+    "pID": 332,
+    "pNameCn": "裸柱菊",
+    "pNameSci": "Soliva anthemifolia (Juss. ) R. Br.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产南美洲。大洋洲也有。我国广东、台湾、福建、江西见于荒地、田野。"
+  },
+  {
+    "pID": 334,
+    "pNameCn": "万寿菊",
+    "pNameSci": "Tagetes erecta L.",
+    "sortCn": "菊科",
+    "invasionHistory": "原产墨西哥。我国各地均有栽培。在广东和云南南部、东南部已归化。"
+  },
+  {
+    "pID": 340,
+    "pNameCn": "平滑苍耳",
+    "pNameSci": null,
+    "sortCn": "菊科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 346,
+    "pNameCn": "韭莲",
+    "pNameSci": "Zephyranthes grandiflora Lindl.",
+    "sortCn": "石蒜科",
+    "invasionHistory": "原产南美。我国引种栽培供观赏。"
+  },
+  {
+    "pID": 350,
+    "pNameCn": "野燕麦",
+    "pNameSci": "Avena fatua L.",
+    "sortCn": "禾本科",
+    "invasionHistory": "广布于我国南北各省。生于荒芜田野或为田间杂草。也分布于欧、亚、非三洲的温寒带地区，并且北美也有输入，印第安人以其种子供食用。模式标本采自欧洲。"
+  },
+  {
+    "pID": 353,
+    "pNameCn": "扁穗雀麦",
+    "pNameSci": "Bromus catharticus Vahl.",
+    "sortCn": "禾本科",
+    "invasionHistory": "华东、江苏、台湾及内蒙古等地有引种栽培。生于山坡阴蔽沟边，常作短期牧草种植，牧草产量较高，质地较粗。原产美洲，各国广泛引种。模式标本采自南美秘鲁。"
+  },
+  {
+    "pID": 358,
+    "pNameCn": "白茅",
+    "pNameSci": "Imperata cylindrica (L.) Beauv.",
+    "sortCn": "禾本科",
+    "invasionHistory": "产于辽宁、河北、山西、山东、陕西、新疆等北方地区；生于低山带平原河岸草地、沙质草甸、荒漠与海滨。也分布于非洲北部、土耳其、伊拉克、伊朗、中亚、高加索及地中海区域。模式标本采自法国南部。"
+  },
+  {
+    "pID": 359,
+    "pNameCn": "黑麦草",
+    "pNameSci": "Lolium perenne L.",
+    "sortCn": "禾本科",
+    "invasionHistory": "各地普遍引种栽培的优良牧草。生于草甸草场，路旁湿地常见。广泛分布于克什米尔地区、巴基斯坦、欧洲、亚洲暖温带、非洲北部。模式标本采自欧洲。"
+  },
+  {
+    "pID": 362,
+    "pNameCn": "牧地狼尾草",
+    "pNameSci": "Pennisetum setosum (Swartz) Rich.",
+    "sortCn": "禾本科",
+    "invasionHistory": "分布热带美洲及热带非洲，但已引入许多国家。我国台湾及海南已引种而归化，常见于山坡草地。"
+  },
+  {
+    "pID": 364,
+    "pNameCn": "棕叶狗尾草",
+    "pNameSci": "Setaria palmifolia (Koen.) Stapf",
+    "sortCn": "禾本科",
+    "invasionHistory": "产浙江、江西、福建、台湾、湖北、湖南、贵州、四川、云南、广东、广西、西藏等省区；生于山坡或谷地林下阴湿处。原产非洲、广布于大洋洲、美洲和亚洲的热带和亚热带地区。"
+  },
+  {
+    "pID": 367,
+    "pNameCn": "大米草",
+    "pNameSci": "Spartina anglica Hubb.",
+    "sortCn": "禾本科",
+    "invasionHistory": "原产欧洲，生于潮水能经常到达的海滩沼泽中。"
+  },
+  {
+    "pID": 369,
+    "pNameCn": "香根草",
+    "pNameSci": "Vetiveria zizanioides (L.) Nash",
+    "sortCn": "禾本科",
+    "invasionHistory": "江苏、浙江、福建、台湾、广东、海南及四川均有引种，栽培于平原、丘陵和山坡；喜生水湿溪流旁和疏松粘壤土上。热带非洲至印度、斯里兰卡、泰国、缅甸、印度尼西亚爪哇、马来西亚一带广泛种植。模式标本采自印度。"
+  },
+  {
+    "pID": 404,
+    "pNameCn": "红瓜",
+    "pNameSci": "Coccinia grandis (L.) Voigt",
+    "sortCn": "葫芦科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 405,
+    "pNameCn": "黑荆",
+    "pNameSci": "Acacia mearnsii De Wilde",
+    "sortCn": "豆科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 406,
+    "pNameCn": "无刺含羞草",
+    "pNameSci": "Mimosa invisa Mart. ex Colla var. inermis Adelb.",
+    "sortCn": "豆科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 407,
+    "pNameCn": "多花黑麦草",
+    "pNameSci": "Lolium multiflorum Lamk.",
+    "sortCn": "禾本科",
+    "invasionHistory": null
+  },
+  {
+    "pID": 408,
+    "pNameCn": "粉绿狐尾藻",
+    "pNameSci": "Myriophyllum aquaticum (Vell.) Verdc.",
+    "sortCn": "小二仙草科",
+    "invasionHistory": null
+  }
+]

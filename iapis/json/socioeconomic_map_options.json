@@ -1,0 +1,492 @@
+[
+  {
+    "value": "gdp",
+    "unit":"亿元",
+    "title": {
+      "text": "GDP",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "GDP"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 400,
+      "max": 10000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "gdpPerPerson",
+    "unit":"元",
+    "title": {
+      "text": "人均GDP",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "GDP"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 20000,
+      "max": 100000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "gdpTransportation",
+    "unit":"亿元",
+    "title": {
+      "text": "交通运输GDP",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "GDP"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 0,
+      "max": 300,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "totalImport",
+    "unit":"亿美元",
+    "title": {
+      "text": "进口总额",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "总额"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 0,
+      "max": 1000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "totalExport",
+    "unit":"亿美元",
+    "title": {
+      "text": "出口总额",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "总额"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 0,
+      "max": 1000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "touristsOverseas",
+    "unit":"万人",
+    "title": {
+      "text": "境外游客人数",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "人数"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 0,
+      "max": 1000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "touristsDomestic",
+    "unit":"万人",
+    "title": {
+      "text": "国内游客人数",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "人数"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 500,
+      "max": 3000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "permanentPopulation",
+    "unit":"万人",
+    "title": {
+      "text": "年末常住人口",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "人口"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 100,
+      "max": 1000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "permanentPopulationDensity",
+    "unit":"人/平方公里",
+    "title": {
+      "text": "常住人口密度",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "人口密度"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 100,
+      "max": 2000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "highwayDensity",
+    "unit":"公里/百平方公里",
+    "title": {
+      "text": "公路密度",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "公路密度"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 50,
+      "max": 200,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "administrativeArea",
+    "unit":"平方公里",
+    "title": {
+      "text": "行政区域面积",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "面积"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 1500,
+      "max": 15000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "naturalPreserveArea",
+    "unit":"百平方公里",
+    "title": {
+      "text": "自然保护区面积",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "面积"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 10000,
+      "max": 300000,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "naturalPreserveAreaRatio",
+    "unit":"%",
+    "title": {
+      "text": "自然保护区面积比例",
+      "subtext": "数据说明：无"
+    },
+    "tooltip": {
+      "formatter": "{b}<br>{c}"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "地市",
+            "value": "面积比例"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 0,
+      "max": 20,
+      "splitNumber": 10,
+      "precision": 2,
+      "inRange": {
+        "color": ["#FCF2E4","#D9A257", "#D4861E","#B2692E","#A65615"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  },
+  {
+    "value": "null",
+    "unit":"null",
+    "title": {
+      "text": "null",
+      "subtext": "null"
+    },
+    "tooltip": {
+      "formatter": "null"
+    },
+    "toolbox": {
+      "feature": {
+        "dataView": {
+          "optionToContent": {
+            "name": "null",
+            "value": "null"
+          }
+        }
+      }
+    },
+    "visualMap": {
+      "min": 0,
+      "max": 0,
+      "splitNumber": 1,
+      "precision": 0,
+      "inRange": {
+        "color": ["#000000"]
+      }
+    },
+    "series": [
+      {
+        "data": []
+      }
+    ]
+  }
+]

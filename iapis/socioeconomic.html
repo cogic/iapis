@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh_CN" id="socioeconomic_status">
+  <head>
+    <base href="/iapis/" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>社会经济状况-广东省外来入侵植物数据库及风险评估系统</title>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/main_style.css" />
+    <link rel="stylesheet" href="css/enements_style.css" />
+    <!-- <script src="//webapi.amap.com/maps?v=2.0&key=af623eef450ea6e447829438b62a1168"></script>
+    <script src="//webapi.amap.com/ui/1.1/main.js"></script> -->
+    <script src="js/master_page.js"></script>
+    <!-- <script src="js/enement_map.js"></script> -->
+    <script src="js/jquery.js"></script>
+    <!-- <script src="js/echarts.min.js"></script> -->
+    <!-- <script src="js/database.js"></script> -->
+  </head>
+  <body>
+    <script>
+      createhead();
+    </script>
+    <div id="frame" class="heart">
+      <iframe src="sochart.html" frameborder="0"></iframe>
+      <!-- <select name="enements" class="selectbox">
+        <option value="gdp">GDP</option>
+        <option value="gdpPerPerson">人均GDP</option>
+        <option value="gdpTransportation">交通运输GDP</option>
+        <option value="totalImport">进口总额</option>
+        <option value="totalExport">出口总额</option>
+        <option value="touristsOverseas">境外游客人数</option>
+        <option value="touristsDomestic">国内游客人数</option>
+        <option value="permanentPopulation">年末常住人口</option>
+        <option value="permanentPopulationDensity">常住人口密度</option>
+        <option value="highwayDensity">公路密度</option>
+        <option value="administrativeArea">行政区域面积</option>
+        <option value="naturalPreserveArea">自然保护区面积</option>
+        <option value="naturalPreserveAreaRatio">自然保护区面积比例</option>
+      </select>
+      <div id="container" class="map heart"></div> -->
+    </div>
+    <!-- <script>
+      $(function () {
+        recreate();
+        $(".selectbox").change(recreate);
+      });
+      function recreate() {
+        createEvmtMap($(".selectbox").find("option:selected").val(), "json/socioeconomic_map_options.json");
+      }
+    </script> -->
+    <script>
+      createtail();
+    </script>
+  </body>
+</html>

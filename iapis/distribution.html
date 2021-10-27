@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN" id="overview_distribution">
+
+<head>
+  <base href="/iapis/">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>分布概览-广东省外来入侵植物数据库及风险评估系统</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/main_style.css" />
+  <link rel="stylesheet" href="css/overview_distribution_style.css" />
+  <script src="js/master_page.js"></script>
+  <script src="js/jquery.js"></script>
+</head>
+
+<body>
+  <script>
+    createhead();
+  </script>
+  <div class="main heart">
+    <!-- <iframe src="dichart.html" frameborder="0"></iframe> -->
+  </div>
+
+  <script>
+    $(function () {
+      if (getUrlParam("sel") == "a") {
+        $(".main").append("<iframe src='dichart.html' frameborder='0'></iframe>")
+      } else if (getUrlParam("sel") == "b") {
+        $(".main").append("<iframe src='dechart.html' frameborder='0'></iframe>")
+      }
+      // recreate();
+      // $(".selectbox").change(recreate);
+    });
+
+    function getUrlParam(name) {
+      var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+      var r = window.location.search.substr(1).match(reg); //匹配目标参数
+      if (r != null) return unescape(r[2]);
+      return null; //返回参数值
+    }
+
+    // $(function () {
+    //   recreate();
+    //   $(".listselectbox").change(recreate);
+    //   $(".maptip").hide();
+    //   $("#container")
+    //     .mouseover(function () {
+    //       $(".maptip").show();
+    //     })
+    //     .mouseout(function () {
+    //       $(".maptip").hide();
+    //     });
+    // })
+
+    // function recreate() {
+    //   createOVMap($(".listselectbox").find("option:selected").val(), $(".listselectbox").find("option:selected").html(),
+    //     440000);
+    // }
+  </script>
+  <script>
+    createtail();
+  </script>
+  <!-- <script src="js/overview_map.js"></script>
+  <script src="//webapi.amap.com/maps?v=2.0&key=af623eef450ea6e447829438b62a1168"></script>
+  <script src="//webapi.amap.com/ui/1.1/main.js"></script>
+  <script src="js/database.js"></script>
+  <script src="js/adapter.js"></script>
+  <script src="js/echarts.min.js"></script> -->
+</body>
+
+</html>
